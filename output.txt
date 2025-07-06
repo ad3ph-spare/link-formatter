@@ -1,0 +1,20 @@
+R. Warren, J. Price, E. Graham et al. The projected effect on insects, vertebrates, and plants of limiting global warming to 1.5°C rather than 2°C. Science 6390, 360, 791-795 (2018)
+K. Peltonen, N. Ellonen, H. B. Larsen et al. Parental violence and adolescent mental health. Eur Child Adolesc Psychiatry 11, 19, 813-822 (2010)
+D. Brownlie. Towards effective poster presentations: an annotated bibliography. European Journal of Marketing 11/12, 41, 1245-1283 (2007)
+M. A. Hlatky, D. Boothroyd, E. Vittinghoff et al. Quality-of-Life and Depressive Symptoms in Postmenopausal Women After Receiving Hormone Therapy. JAMA 5, 287, 591 (2002)
+G. Shi, J.-p. Chavas and K. Stiegert. An Analysis of the Pricing of Traits in the U.S. Corn Seed Market. American J Agri Economics 5, 92, 1324-1338 (2010)
+K. Pelak, K. V. Shianna, D. Ge et al. The Characterization of Twenty Sequenced Human Genomes. PLoS Genet 9, 6, e1001111 (2010)
+A. Mallory-Kani. <i>“</i>Contagious Air[s]”: Wordsworth's Poetics and Politics of Immunity. European Romantic Review 6, 26, 699-717 (2015)
+ERROR fetching citation data
+E. S. Gorkunov, Y. V. Subachev, S. M. Zadvorkin et al. Effect of heat treatment on the magnetic behaviour of powder steel 50Ni2Mo under uni-axial tension. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science 6, 226, 1462-1471 (2012)
+S. Huh. Revision of the instructions to authors to require a structured abstract, digital object identifier of each reference, and author’s voice recording may increase journal access. J Educ Eval Health Prof ERROR Issue, 10, 3 (2013)
+P. Braconnot, S. P. Harrison, M. Kageyama et al. Evaluation of climate models using palaeoclimatic data. Nature Clim Change 6, 2, 417-424 (2012)
+ERROR fetching citation data
+B. Abbott, R. Abbott, T. Abbott et al. Observation of Gravitational Waves from a Binary Black Hole Merger. Phys. Rev. Lett. 6, 116, ERROR Page (2016)
+C. Benzmüller, X. Parent and L. van der Torre. Designing normative theories for ethical and legal reasoning: LogiKEy framework, methodology, and tool support. Artificial Intelligence ERROR Issue, 287, 103348 (2020)
+%%title%% (%%source%%, %%channel%%, %%date%%), %%link%%
+Wikipedia: Flight dynamics, https://en.wikipedia.org/wiki/Flight_dynamics
+J. Millman, C. H. Bishop and R. Ebel. An Analysis of Test-Wiseness. Educational and Psychological Measurement 3, 25, 707-726 (1965)
+%%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+%%problem%% (IYPT %%year%%). %%reporter%% (%%team%%)
+%%authors%%. %%title%%. %%publisher%%, %%year%%
