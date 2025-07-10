@@ -1,0 +1,7 @@
+[video] https://youtu.be/7KjBRGQGMFg
+[video] https://www.youtube.com/shorts/xix7Bkdj-g8?feature=share
+[site] https://physics.aps.org/story/v23/st3
+[paper] https://doi.org/10.1103/PhysRevLett.102.034502
+[paper] https://doi.org/10.1017/S0022112010003526
+[site] https://arxiv.org/html/2412.16508v1
+

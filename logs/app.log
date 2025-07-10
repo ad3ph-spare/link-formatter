@@ -434,3 +434,840 @@
 2025-06-25 19:53:08.270 | INFO     | main.main:22 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
 2025-06-25 19:53:08.271 | SUCCESS  | main.main:28 - Written formatted links to output file: 20 items.
 2025-06-25 19:53:08.272 | INFO     | main.<module>:33 - Application finished.
+2025-07-07 03:24:34.015 | INFO     | main.<module>:31 - Starting the application...
+2025-07-07 03:24:34.017 | INFO     | main.main:8 - Output file created and written successfully.
+2025-07-07 03:24:34.019 | INFO     | main.main:12 - Read 20 lines from input file.
+2025-07-07 03:24:36.105 | INFO     | main.main:22 - Formatted link: R. Warren, J. Price, E. Graham et al. The projected effect on insects, vertebrates, and plants of limiting global warming to 1.5°C rather than 2°C. Science 6390, 360, 791-795 (2018)
+2025-07-07 03:24:37.698 | INFO     | main.main:22 - Formatted link: K. Peltonen, N. Ellonen, H. B. Larsen et al. Parental violence and adolescent mental health. Eur Child Adolesc Psychiatry 11, 19, 813-822 (2010)
+2025-07-07 03:24:39.050 | INFO     | main.main:22 - Formatted link: D. Brownlie. Towards effective poster presentations: an annotated bibliography. European Journal of Marketing 11/12, 41, 1245-1283 (2007)
+2025-07-07 03:24:40.657 | INFO     | main.main:22 - Formatted link: M. A. Hlatky, D. Boothroyd, E. Vittinghoff et al. Quality-of-Life and Depressive Symptoms in Postmenopausal Women After Receiving Hormone Therapy. JAMA 5, 287, 591 (2002)
+2025-07-07 03:24:42.247 | INFO     | main.main:22 - Formatted link: G. Shi, J.-p. Chavas and K. Stiegert. An Analysis of the Pricing of Traits in the U.S. Corn Seed Market. American J Agri Economics 5, 92, 1324-1338 (2010)
+2025-07-07 03:24:43.648 | INFO     | main.main:22 - Formatted link: K. Pelak, K. V. Shianna, D. Ge et al. The Characterization of Twenty Sequenced Human Genomes. PLoS Genet 9, 6, e1001111 (2010)
+2025-07-07 03:24:45.403 | INFO     | main.main:22 - Formatted link: A. Mallory-Kani. <i>“</i>Contagious Air[s]”: Wordsworth's Poetics and Politics of Immunity. European Romantic Review 6, 26, 699-717 (2015)
+2025-07-07 03:24:46.202 | ERROR    | formatters.insert_values:64 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 03:24:46.213 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:24:47.747 | INFO     | main.main:22 - Formatted link: E. S. Gorkunov, Y. V. Subachev, S. M. Zadvorkin et al. Effect of heat treatment on the magnetic behaviour of powder steel 50Ni2Mo under uni-axial tension. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science 6, 226, 1462-1471 (2012)
+2025-07-07 03:24:49.670 | INFO     | main.main:22 - Formatted link: S. Huh. Revision of the instructions to authors to require a structured abstract, digital object identifier of each reference, and author’s voice recording may increase journal access. J Educ Eval Health Prof ERROR Issue, 10, 3 (2013)
+2025-07-07 03:24:51.295 | INFO     | main.main:22 - Formatted link: P. Braconnot, S. P. Harrison, M. Kageyama et al. Evaluation of climate models using palaeoclimatic data. Nature Clim Change 6, 2, 417-424 (2012)
+2025-07-07 03:24:52.030 | ERROR    | formatters.insert_values:64 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 03:24:52.032 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:24:54.062 | INFO     | main.main:22 - Formatted link: B. Abbott, R. Abbott, T. Abbott et al. Observation of Gravitational Waves from a Binary Black Hole Merger. Phys. Rev. Lett. 6, 116, ERROR Page (2016)
+2025-07-07 03:24:55.544 | INFO     | main.main:22 - Formatted link: C. Benzmüller, X. Parent and L. van der Torre. Designing normative theories for ethical and legal reasoning: LogiKEy framework, methodology, and tool support. Artificial Intelligence ERROR Issue, 287, 103348 (2020)
+2025-07-07 03:27:41.670 | INFO     | main.<module>:31 - Starting the application...
+2025-07-07 03:27:41.672 | INFO     | main.main:8 - Output file created and written successfully.
+2025-07-07 03:27:41.674 | INFO     | main.main:12 - Read 20 lines from input file.
+2025-07-07 03:27:43.852 | INFO     | main.main:22 - Formatted link: R. Warren, J. Price, E. Graham et al. The projected effect on insects, vertebrates, and plants of limiting global warming to 1.5°C rather than 2°C. Science 6390, 360, 791-795 (2018)
+2025-07-07 03:27:45.267 | INFO     | main.main:22 - Formatted link: K. Peltonen, N. Ellonen, H. B. Larsen et al. Parental violence and adolescent mental health. Eur Child Adolesc Psychiatry 11, 19, 813-822 (2010)
+2025-07-07 03:27:46.795 | INFO     | main.main:22 - Formatted link: D. Brownlie. Towards effective poster presentations: an annotated bibliography. European Journal of Marketing 11/12, 41, 1245-1283 (2007)
+2025-07-07 03:27:48.689 | INFO     | main.main:22 - Formatted link: M. A. Hlatky, D. Boothroyd, E. Vittinghoff et al. Quality-of-Life and Depressive Symptoms in Postmenopausal Women After Receiving Hormone Therapy. JAMA 5, 287, 591 (2002)
+2025-07-07 03:27:50.181 | INFO     | main.main:22 - Formatted link: G. Shi, J.-p. Chavas and K. Stiegert. An Analysis of the Pricing of Traits in the U.S. Corn Seed Market. American J Agri Economics 5, 92, 1324-1338 (2010)
+2025-07-07 03:27:51.756 | INFO     | main.main:22 - Formatted link: K. Pelak, K. V. Shianna, D. Ge et al. The Characterization of Twenty Sequenced Human Genomes. PLoS Genet 9, 6, e1001111 (2010)
+2025-07-07 03:27:53.378 | INFO     | main.main:22 - Formatted link: A. Mallory-Kani. <i>“</i>Contagious Air[s]”: Wordsworth's Poetics and Politics of Immunity. European Romantic Review 6, 26, 699-717 (2015)
+2025-07-07 03:27:54.351 | ERROR    | formatters.insert_values:66 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 03:27:54.352 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:27:56.332 | INFO     | main.main:22 - Formatted link: E. S. Gorkunov, Y. V. Subachev, S. M. Zadvorkin et al. Effect of heat treatment on the magnetic behaviour of powder steel 50Ni2Mo under uni-axial tension. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science 6, 226, 1462-1471 (2012)
+2025-07-07 03:27:57.847 | INFO     | main.main:22 - Formatted link: S. Huh. Revision of the instructions to authors to require a structured abstract, digital object identifier of each reference, and author’s voice recording may increase journal access. J Educ Eval Health Prof ERROR Issue, 10, 3 (2013)
+2025-07-07 03:27:59.385 | INFO     | main.main:22 - Formatted link: P. Braconnot, S. P. Harrison, M. Kageyama et al. Evaluation of climate models using palaeoclimatic data. Nature Clim Change 6, 2, 417-424 (2012)
+2025-07-07 03:28:00.034 | ERROR    | formatters.insert_values:66 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 03:28:00.036 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:28:01.705 | INFO     | main.main:22 - Formatted link: B. Abbott, R. Abbott, T. Abbott et al. Observation of Gravitational Waves from a Binary Black Hole Merger. Phys. Rev. Lett. 6, 116, ERROR Page (2016)
+2025-07-07 03:28:03.416 | INFO     | main.main:22 - Formatted link: C. Benzmüller, X. Parent and L. van der Torre. Designing normative theories for ethical and legal reasoning: LogiKEy framework, methodology, and tool support. Artificial Intelligence ERROR Issue, 287, 103348 (2020)
+2025-07-07 03:28:04.005 | INFO     | main.main:22 - Formatted link: %%title%% (%%source%%, %%channel%%, %%date%%), %%link%%
+2025-07-07 03:28:04.020 | INFO     | main.main:22 - Formatted link: Wikipedia: Flight dynamics, https://en.wikipedia.org/wiki/Flight_dynamics
+2025-07-07 03:28:05.613 | INFO     | main.main:22 - Formatted link: J. Millman, C. H. Bishop and R. Ebel. An Analysis of Test-Wiseness. Educational and Psychological Measurement 3, 25, 707-726 (1965)
+2025-07-07 03:28:05.614 | INFO     | main.main:22 - Formatted link: %%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+2025-07-07 03:28:05.616 | INFO     | main.main:22 - Formatted link: %%problem%% (IYPT %%year%%). %%reporter%% (%%team%%)
+2025-07-07 03:28:05.617 | INFO     | main.main:22 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 03:28:05.618 | SUCCESS  | main.main:28 - Written formatted links to output file: 20 items.
+2025-07-07 03:28:05.619 | INFO     | main.<module>:33 - Application finished.
+2025-07-07 03:33:59.210 | INFO     | main.<module>:31 - Starting the application...
+2025-07-07 03:33:59.212 | INFO     | main.main:8 - Output file created and written successfully.
+2025-07-07 03:33:59.293 | INFO     | main.main:12 - Read 7 lines from input file.
+2025-07-07 03:34:00.208 | ERROR    | formatters.insert_values:66 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 03:34:00.210 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:34:00.959 | ERROR    | formatters.insert_values:66 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 03:34:00.961 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:34:01.702 | INFO     | main.main:22 - Formatted link: %%title%% (%%source%%, %%channel%%, %%date%%), %%link%%
+2025-07-07 03:34:01.704 | INFO     | main.main:22 - Formatted link: Wikipedia: Flight dynamics, https://en.wikipedia.org/wiki/Flight_dynamics
+2025-07-07 03:34:03.590 | INFO     | main.main:22 - Formatted link: J. Millman, C. H. Bishop and R. Ebel. An Analysis of Test-Wiseness. Educational and Psychological Measurement 3, 25, 707-726 (1965)
+2025-07-07 03:34:03.592 | INFO     | main.main:22 - Formatted link: %%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+2025-07-07 03:34:03.593 | INFO     | main.main:22 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 03:34:03.595 | SUCCESS  | main.main:28 - Written formatted links to output file: 7 items.
+2025-07-07 03:34:03.596 | INFO     | main.<module>:33 - Application finished.
+2025-07-07 03:45:29.283 | INFO     | main.<module>:31 - Starting the application...
+2025-07-07 03:45:29.283 | INFO     | main.main:8 - Output file created and written successfully.
+2025-07-07 03:45:29.300 | INFO     | main.main:12 - Read 5 lines from input file.
+2025-07-07 03:45:30.097 | ERROR    | formatters.insert_values:67 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 03:45:30.098 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:45:30.599 | ERROR    | formatters.insert_values:67 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 03:45:30.600 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:45:31.456 | INFO     | main.main:22 - Formatted link: %%title%% (%%source%%, %%channel%%, %%date%%), %%link%%
+2025-07-07 03:45:31.457 | INFO     | main.main:22 - Formatted link: %%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+2025-07-07 03:45:31.458 | INFO     | main.main:22 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 03:45:31.461 | SUCCESS  | main.main:28 - Written formatted links to output file: 5 items.
+2025-07-07 03:45:31.461 | INFO     | main.<module>:33 - Application finished.
+2025-07-07 03:48:43.982 | INFO     | main.<module>:31 - Starting the application...
+2025-07-07 03:48:43.983 | INFO     | main.main:8 - Output file created and written successfully.
+2025-07-07 03:48:43.983 | INFO     | main.main:12 - Read 5 lines from input file.
+2025-07-07 03:48:44.742 | ERROR    | formatters.insert_values:72 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 03:48:44.743 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:48:45.280 | ERROR    | formatters.insert_values:72 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 03:48:45.281 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:48:45.723 | INFO     | main.main:22 - Formatted link: %%title%% (%%source%%, %%channel%%, %%date%%), %%link%%
+2025-07-07 03:48:45.725 | INFO     | main.main:22 - Formatted link: %%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+2025-07-07 03:48:45.727 | INFO     | main.main:22 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 03:48:45.729 | SUCCESS  | main.main:28 - Written formatted links to output file: 5 items.
+2025-07-07 03:48:45.729 | INFO     | main.<module>:33 - Application finished.
+2025-07-07 03:51:37.435 | INFO     | main.<module>:31 - Starting the application...
+2025-07-07 03:51:37.436 | INFO     | main.main:8 - Output file created and written successfully.
+2025-07-07 03:51:37.436 | INFO     | main.main:12 - Read 5 lines from input file.
+2025-07-07 03:51:38.255 | ERROR    | formatters.insert_values:74 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 03:51:38.256 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:51:38.869 | ERROR    | formatters.insert_values:74 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 03:51:38.869 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:52:15.134 | INFO     | main.<module>:31 - Starting the application...
+2025-07-07 03:52:15.135 | INFO     | main.main:8 - Output file created and written successfully.
+2025-07-07 03:52:15.136 | INFO     | main.main:12 - Read 5 lines from input file.
+2025-07-07 03:52:15.919 | ERROR    | formatters.insert_values:74 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 03:52:15.919 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:52:16.417 | ERROR    | formatters.insert_values:74 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 03:52:16.419 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:52:16.998 | INFO     | main.main:22 - Formatted link: %%title%% (%%source%%, %%channel%%, %%date%%), %%link%%
+2025-07-07 03:52:16.999 | INFO     | main.main:22 - Formatted link: %%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+2025-07-07 03:52:16.999 | INFO     | main.main:22 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 03:52:17.000 | SUCCESS  | main.main:28 - Written formatted links to output file: 5 items.
+2025-07-07 03:52:17.000 | INFO     | main.<module>:33 - Application finished.
+2025-07-07 03:55:09.061 | INFO     | main.<module>:31 - Starting the application...
+2025-07-07 03:55:09.062 | INFO     | main.main:8 - Output file created and written successfully.
+2025-07-07 03:55:09.063 | INFO     | main.main:12 - Read 5 lines from input file.
+2025-07-07 03:55:09.922 | ERROR    | formatters.insert_values:75 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 03:55:09.922 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:55:10.845 | ERROR    | formatters.insert_values:75 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 03:55:10.847 | INFO     | main.main:22 - Formatted link: ERROR fetching citation data
+2025-07-07 03:55:11.457 | INFO     | main.main:22 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 2021-11-20T03:55:14Z), https://youtu.be/SGDzDWpvwOY
+2025-07-07 03:55:11.458 | INFO     | main.main:22 - Formatted link: %%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+2025-07-07 03:55:11.459 | INFO     | main.main:22 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 03:55:57.120 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 03:55:57.120 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 03:55:57.121 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 03:55:58.156 | ERROR    | formatters.insert_values:75 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 03:55:58.157 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 03:55:58.654 | ERROR    | formatters.insert_values:75 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 03:55:58.655 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 03:55:59.529 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 2021-11-20T03:55:14Z), https://youtu.be/SGDzDWpvwOY
+2025-07-07 03:55:59.530 | INFO     | main.main:23 - Formatted link: %%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+2025-07-07 03:55:59.531 | INFO     | main.main:23 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 03:55:59.533 | SUCCESS  | main.main:29 - Written formatted links to output file: 5 items.
+2025-07-07 03:55:59.534 | INFO     | main.<module>:35 - Application finished.
+2025-07-07 03:57:51.089 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 03:57:51.090 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 03:57:51.091 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 03:57:51.724 | ERROR    | formatters.insert_values:76 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 03:57:51.724 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 03:57:52.332 | ERROR    | formatters.insert_values:76 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 03:57:52.333 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 03:57:52.915 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 03:57:52.916 | INFO     | main.main:23 - Formatted link: %%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+2025-07-07 03:57:52.916 | INFO     | main.main:23 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 03:57:52.917 | SUCCESS  | main.main:29 - Written formatted links to output file: 5 items.
+2025-07-07 03:57:52.917 | INFO     | main.<module>:35 - Application finished.
+2025-07-07 04:33:29.370 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 04:33:29.370 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 04:33:29.371 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 04:33:30.407 | ERROR    | formatters.insert_values:120 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 04:33:30.408 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:33:30.955 | ERROR    | formatters.insert_values:120 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 04:33:30.956 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:33:31.695 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 04:33:53.843 | INFO     | main.main:23 - Formatted link: %%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+2025-07-07 04:33:53.843 | WARNING  | formatters.insert_values:170 - book is unsupported fro now
+2025-07-07 04:33:53.844 | INFO     | main.main:23 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 04:33:53.844 | SUCCESS  | main.main:29 - Written formatted links to output file: 5 items.
+2025-07-07 04:33:53.845 | INFO     | main.<module>:35 - Application finished.
+2025-07-07 04:35:43.650 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 04:35:43.651 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 04:35:43.651 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 04:35:44.788 | ERROR    | formatters.insert_values:120 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 04:35:44.789 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:35:46.962 | ERROR    | formatters.insert_values:120 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 04:35:46.962 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:35:48.902 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 04:36:10.849 | INFO     | main.main:23 - Formatted link: %%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+2025-07-07 04:36:10.851 | WARNING  | formatters.insert_values:169 - book is unsupported fro now, skipping
+2025-07-07 04:36:10.852 | INFO     | main.main:23 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 04:36:10.854 | SUCCESS  | main.main:29 - Written formatted links to output file: 5 items.
+2025-07-07 04:36:10.855 | INFO     | main.<module>:35 - Application finished.
+2025-07-07 04:49:10.034 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 04:49:10.035 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 04:49:10.035 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 04:49:11.491 | ERROR    | formatters.insert_values:134 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 04:49:11.492 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:49:12.268 | ERROR    | formatters.insert_values:134 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 04:49:12.270 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:49:12.953 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 04:52:35.017 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 04:52:35.018 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 04:52:35.019 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 04:52:35.983 | ERROR    | formatters.insert_values:132 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 04:52:35.984 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:52:36.778 | ERROR    | formatters.insert_values:132 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 04:52:36.781 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:52:37.461 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 04:54:38.812 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 04:54:38.813 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 04:54:38.814 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 04:54:40.729 | ERROR    | formatters.insert_values:134 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 04:54:40.731 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:54:42.371 | ERROR    | formatters.insert_values:134 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 04:54:42.372 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:54:44.090 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 04:56:09.599 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 04:56:09.599 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 04:56:09.600 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 04:56:11.252 | ERROR    | formatters.insert_values:134 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 04:56:11.253 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:56:12.581 | ERROR    | formatters.insert_values:134 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 04:56:12.581 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:56:14.380 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 04:57:43.277 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 04:57:43.278 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 04:57:43.279 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 04:57:45.310 | ERROR    | formatters.insert_values:134 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 04:57:45.312 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:57:46.970 | ERROR    | formatters.insert_values:134 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 04:57:46.971 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:57:48.433 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 04:59:37.503 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 04:59:37.504 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 04:59:37.505 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 04:59:39.012 | ERROR    | formatters.insert_values:134 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 04:59:39.015 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:59:41.586 | ERROR    | formatters.insert_values:134 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 04:59:41.587 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 04:59:43.129 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 05:02:12.838 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 05:02:12.839 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 05:02:12.840 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 05:02:15.688 | ERROR    | formatters.insert_values:137 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 05:02:15.689 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 05:02:21.372 | ERROR    | formatters.insert_values:137 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 05:02:21.380 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 05:02:24.256 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 05:02:46.528 | INFO     | main.main:23 - Formatted link: %%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+2025-07-07 05:02:46.531 | WARNING  | formatters.insert_values:186 - book is unsupported fro now, skipping
+2025-07-07 05:02:46.531 | INFO     | main.main:23 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 05:02:46.533 | SUCCESS  | main.main:29 - Written formatted links to output file: 5 items.
+2025-07-07 05:02:46.535 | INFO     | main.<module>:35 - Application finished.
+2025-07-07 05:56:25.304 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 05:56:25.305 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 05:56:25.306 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 05:56:28.203 | ERROR    | formatters.insert_values:139 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 05:56:28.204 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 05:56:30.003 | ERROR    | formatters.insert_values:139 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 05:56:30.005 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 05:56:31.820 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 05:57:30.450 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 05:57:30.452 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 05:57:30.453 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 05:57:32.537 | ERROR    | formatters.insert_values:139 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 05:57:32.538 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 05:57:33.895 | ERROR    | formatters.insert_values:139 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 05:57:33.897 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 05:57:36.677 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 05:58:08.634 | INFO     | main.main:23 - Formatted link: %%title%% (%%author%%, %%site%%, %%date%%), %%link%%
+2025-07-07 05:58:08.635 | WARNING  | formatters.insert_values:188 - book is unsupported fro now, skipping
+2025-07-07 05:58:08.636 | INFO     | main.main:23 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 05:58:08.637 | SUCCESS  | main.main:29 - Written formatted links to output file: 5 items.
+2025-07-07 05:58:08.638 | INFO     | main.<module>:35 - Application finished.
+2025-07-07 06:00:55.450 | INFO     | main.<module>:33 - Starting the application...
+2025-07-07 06:00:55.452 | INFO     | main.main:9 - Output file created and written successfully.
+2025-07-07 06:00:55.453 | INFO     | main.main:13 - Read 5 lines from input file.
+2025-07-07 06:00:57.272 | ERROR    | formatters.insert_values:140 - Error fetching citation data: Failed to fetch data from https://doi.org/10.18384/2311-714X-2016-6-110-124, status code: 404
+2025-07-07 06:00:57.273 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 06:00:58.758 | ERROR    | formatters.insert_values:140 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1257/aer.98.3.666, status code: 404
+2025-07-07 06:00:58.769 | INFO     | main.main:23 - Formatted link: ERROR fetching citation data
+2025-07-07 06:01:00.910 | INFO     | main.main:23 - Formatted link: Fly back! This is the really fun origami boomerang【123 Paper Airplane】 (YouTube, 纸飞君, 20.11.2021), https://youtu.be/SGDzDWpvwOY
+2025-07-07 06:01:32.112 | INFO     | main.main:23 - Formatted link: title: How Does a Candle Flame Respond to a Sound Wave? - Question of the Week 2014 Summer Girls Special Part 1, author: -, date: Wednesday, 23 July 2014 13:00
+2025-07-07 06:01:32.113 | WARNING  | formatters.insert_values:192 - book is unsupported fro now, skipping
+2025-07-07 06:01:32.113 | INFO     | main.main:23 - Formatted link: %%authors%%. %%title%%. %%publisher%%, %%year%%
+2025-07-07 06:01:32.114 | SUCCESS  | main.main:29 - Written formatted links to output file: 5 items.
+2025-07-07 06:01:32.115 | INFO     | main.<module>:35 - Application finished.
+2025-07-07 06:16:16.066 | INFO     | main.<module>:41 - Starting the application...
+2025-07-07 06:16:16.068 | INFO     | main.main:28 - Output file created and written successfully.
+2025-07-07 06:16:16.069 | INFO     | main.process_file:9 - Read 3 lines from input file.
+2025-07-07 06:16:16.070 | INFO     | main.process_file:19 - Formatted link: https://www.ioc.ee/~kalda/ipho/PhysicsCup2018/PC18_4-v1.pdf
+2025-07-07 06:16:16.071 | INFO     | main.process_file:19 - Formatted link: https://www.sibran.ru/upload/iblock/5b0/5b00de7ef543dddb6d3b5e58a1241bb0.pdf
+2025-07-07 06:16:16.072 | INFO     | main.process_file:19 - Formatted link: https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2058-06.pdf
+2025-07-07 06:16:16.073 | SUCCESS  | main.main:37 - Written formatted links to output file: 3 items.
+2025-07-07 06:16:16.074 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-07 06:16:18.920 | INFO     | main.process_file:19 - Formatted link: Autumn coin (YouTube, Никита Черников, 06.07.2025), https://youtu.be/EW6tA00SZL8
+2025-07-07 06:16:19.289 | ERROR    | formatters.insert_values:127 - Error fetching video data
+2025-07-07 06:16:19.290 | INFO     | main.process_file:19 - Formatted link: ERROR fetching video data
+2025-07-07 06:16:19.720 | INFO     | main.process_file:19 - Formatted link: Coins Dropped Into Crystal Clear Water: A View From The Bottom As The Coins Sink. Ogemaw Springs, MI (YouTube, Chosen Won, 01.02.2021), https://www.youtube.com/watch?v=jx0acGK7NC8
+2025-07-07 06:16:21.618 | INFO     | main.process_file:19 - Formatted link: L. Heisinger, P. Newton and E. Kanso. Coins falling in water. J. Fluid Mech. ERROR Issue, 742, 243-253 (2014)
+2025-07-07 06:19:35.573 | INFO     | main.<module>:41 - Starting the application...
+2025-07-07 06:19:35.574 | INFO     | main.main:28 - Output file created and written successfully.
+2025-07-07 06:19:35.576 | INFO     | main.process_file:9 - Read 3 lines from input file.
+2025-07-07 06:19:35.577 | INFO     | main.process_file:19 - Formatted link: https://www.ioc.ee/~kalda/ipho/PhysicsCup2018/PC18_4-v1.pdf
+2025-07-07 06:19:35.578 | INFO     | main.process_file:19 - Formatted link: https://www.sibran.ru/upload/iblock/5b0/5b00de7ef543dddb6d3b5e58a1241bb0.pdf
+2025-07-07 06:19:35.581 | INFO     | main.process_file:19 - Formatted link: https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2058-06.pdf
+2025-07-07 06:19:35.582 | SUCCESS  | main.main:37 - Written formatted links to output file: 3 items.
+2025-07-07 06:19:35.584 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-07 06:19:36.020 | INFO     | main.process_file:19 - Formatted link: Autumn coin (YouTube, Никита Черников, 06.07.2025), https://youtu.be/EW6tA00SZL8
+2025-07-07 06:19:36.445 | INFO     | main.process_file:19 - Formatted link: Autumn coin - top (YouTube, Никита Черников, 06.07.2025), https://youtube.com/shorts/ItA7Z667tYc?feature=share
+2025-07-07 06:19:36.925 | INFO     | main.process_file:19 - Formatted link: Coins Dropped Into Crystal Clear Water: A View From The Bottom As The Coins Sink. Ogemaw Springs, MI (YouTube, Chosen Won, 01.02.2021), https://www.youtube.com/watch?v=jx0acGK7NC8
+2025-07-07 06:19:38.367 | INFO     | main.process_file:19 - Formatted link: L. Heisinger, P. Newton and E. Kanso. Coins falling in water. J. Fluid Mech. ERROR Issue, 742, 243-253 (2014)
+2025-07-07 06:20:11.951 | INFO     | main.process_file:19 - Formatted link: title: Is a falling leaf an example of a chaotic system?, author: Deschele Schilder, date: May 7, 2016	link: https://physics.stackexchange.com/questions/254545/is-a-falling-leaf-an-example-of-a-chaotic-system
+2025-07-07 06:20:11.956 | INFO     | main.process_file:19 - Formatted link: https://www.researchgate.net/profile/Yulia-Emelianova/publication/269253006_A_study_of_dynamics_of_a_falling_leaf_based_on_a_two-dimensional_model/links/548561b20cf24356db60ecc3/A-study-of-dynamics-of-a-falling-leaf-based-on-a-two-dimensional-model.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
+2025-07-07 06:24:27.748 | INFO     | main.<module>:41 - Starting the application...
+2025-07-07 06:24:27.749 | INFO     | main.main:28 - Output file created and written successfully.
+2025-07-07 06:24:27.751 | INFO     | main.process_file:9 - Read 3 lines from input file.
+2025-07-07 06:24:27.752 | INFO     | main.process_file:19 - Formatted link: https://www.ioc.ee/~kalda/ipho/PhysicsCup2018/PC18_4-v1.pdf
+2025-07-07 06:24:27.753 | INFO     | main.process_file:19 - Formatted link: https://www.sibran.ru/upload/iblock/5b0/5b00de7ef543dddb6d3b5e58a1241bb0.pdf
+2025-07-07 06:24:27.754 | INFO     | main.process_file:19 - Formatted link: https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2058-06.pdf
+2025-07-07 06:24:27.756 | SUCCESS  | main.main:37 - Written formatted links to output file: 3 items.
+2025-07-07 06:24:27.757 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-07 06:24:28.245 | INFO     | main.process_file:19 - Formatted link: Autumn coin (YouTube, Никита Черников, 06.07.2025), https://youtu.be/EW6tA00SZL8
+2025-07-07 06:24:28.597 | INFO     | main.process_file:19 - Formatted link: Autumn coin - top (YouTube, Никита Черников, 06.07.2025), https://youtube.com/shorts/ItA7Z667tYc?feature=share
+2025-07-07 06:24:29.050 | INFO     | main.process_file:19 - Formatted link: Coins Dropped Into Crystal Clear Water: A View From The Bottom As The Coins Sink. Ogemaw Springs, MI (YouTube, Chosen Won, 01.02.2021), https://www.youtube.com/watch?v=jx0acGK7NC8
+2025-07-07 06:24:30.350 | INFO     | main.process_file:19 - Formatted link: L. Heisinger, P. Newton and E. Kanso. Coins falling in water. J. Fluid Mech. ERROR Issue, 742, 243-253 (2014)
+2025-07-07 06:25:05.026 | INFO     | main.process_file:19 - Formatted link: title: Is a falling leaf an example of a chaotic system?, author: Deschele Schilder, date: May 7, 2016	link: https://physics.stackexchange.com/questions/254545/is-a-falling-leaf-an-example-of-a-chaotic-system
+2025-07-07 06:25:05.028 | INFO     | main.process_file:19 - Formatted link: https://www.researchgate.net/profile/Yulia-Emelianova/publication/269253006_A_study_of_dynamics_of_a_falling_leaf_based_on_a_two-dimensional_model/links/548561b20cf24356db60ecc3/A-study-of-dynamics-of-a-falling-leaf-based-on-a-two-dimensional-model.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
+2025-07-07 06:27:12.154 | ERROR    | formatters.get_site_info:78 - Something went wrong
+2025-07-07 06:29:10.732 | INFO     | main.<module>:41 - Starting the application...
+2025-07-07 06:29:10.733 | INFO     | main.main:28 - Output file created and written successfully.
+2025-07-07 06:29:10.734 | INFO     | main.process_file:9 - Read 3 lines from input file.
+2025-07-07 06:29:10.735 | INFO     | main.process_file:19 - Formatted link: https://www.ioc.ee/~kalda/ipho/PhysicsCup2018/PC18_4-v1.pdf
+2025-07-07 06:29:10.736 | INFO     | main.process_file:19 - Formatted link: https://www.sibran.ru/upload/iblock/5b0/5b00de7ef543dddb6d3b5e58a1241bb0.pdf
+2025-07-07 06:29:10.737 | INFO     | main.process_file:19 - Formatted link: https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2058-06.pdf
+2025-07-07 06:29:10.737 | SUCCESS  | main.main:37 - Written formatted links to output file: 3 items.
+2025-07-07 06:29:10.795 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-07 06:29:11.762 | INFO     | main.process_file:19 - Formatted link: Autumn coin (YouTube, Никита Черников, 06.07.2025), https://youtu.be/EW6tA00SZL8
+2025-07-07 06:29:13.275 | INFO     | main.process_file:19 - Formatted link: Autumn coin - top (YouTube, Никита Черников, 06.07.2025), https://youtube.com/shorts/ItA7Z667tYc?feature=share
+2025-07-07 06:29:13.880 | INFO     | main.process_file:19 - Formatted link: Coins Dropped Into Crystal Clear Water: A View From The Bottom As The Coins Sink. Ogemaw Springs, MI (YouTube, Chosen Won, 01.02.2021), https://www.youtube.com/watch?v=jx0acGK7NC8
+2025-07-07 06:29:15.849 | INFO     | main.process_file:19 - Formatted link: L. Heisinger, P. Newton and E. Kanso. Coins falling in water. J. Fluid Mech. ERROR Issue, 742, 243-253 (2014)
+2025-07-07 06:30:03.503 | INFO     | main.process_file:19 - Formatted link: title: Is a falling leaf an example of a chaotic system?, author: Deschele Schilder, date: May 7, 2016	link: https://physics.stackexchange.com/questions/254545/is-a-falling-leaf-an-example-of-a-chaotic-system
+2025-07-07 06:30:03.505 | INFO     | main.process_file:19 - Formatted link: https://www.researchgate.net/profile/Yulia-Emelianova/publication/269253006_A_study_of_dynamics_of_a_falling_leaf_based_on_a_two-dimensional_model/links/548561b20cf24356db60ecc3/A-study-of-dynamics-of-a-falling-leaf-based-on-a-two-dimensional-model.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
+2025-07-07 06:30:35.729 | INFO     | main.process_file:19 - Formatted link: title: Flow around a disk (or an infinite cylinder), author: Luc Jaouen, date: -	link: https://apmr.matelys.com/BasicsMechanics/Fluid/FlowAroundADisk.html
+2025-07-07 06:30:39.015 | INFO     | main.process_file:19 - Formatted link: D. Vella, D.-G. Lee and H.-Y. Kim. Sinking of a Horizontal Cylinder. Langmuir 7, 22, 2972-2974 (2006)
+2025-07-07 06:30:39.043 | INFO     | main.process_file:19 - Formatted link: https://www.math.hkust.edu.hk/~machas/flow-around-a-cylinder.pdf
+2025-07-07 06:30:41.287 | ERROR    | formatters.insert_values:149 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1021/acs.jpcb.3c05212?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as, status code: 400
+2025-07-07 06:30:41.289 | INFO     | main.process_file:19 - Formatted link: ERROR fetching citation data
+2025-07-07 06:30:41.290 | SUCCESS  | main.main:37 - Written formatted links to output file: 10 items.
+2025-07-07 06:30:41.373 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-07 06:30:42.049 | INFO     | main.process_file:19 - Formatted link: crystal (YouTube, Никита Черников, 06.07.2025), https://youtube.com/shorts/CoB1qcRki5k?feature=share
+2025-07-07 06:31:31.794 | ERROR    | formatters.get_site_info:78 - Something went wrong
+2025-07-07 06:41:12.890 | INFO     | main.<module>:41 - Starting the application...
+2025-07-07 06:41:12.892 | INFO     | main.main:28 - Output file created and written successfully.
+2025-07-07 06:41:12.916 | INFO     | main.process_file:9 - Read 3 lines from input file.
+2025-07-07 06:41:12.918 | INFO     | main.process_file:19 - Formatted link: https://www.ioc.ee/~kalda/ipho/PhysicsCup2018/PC18_4-v1.pdf
+2025-07-07 06:41:12.920 | INFO     | main.process_file:19 - Formatted link: https://www.sibran.ru/upload/iblock/5b0/5b00de7ef543dddb6d3b5e58a1241bb0.pdf
+2025-07-07 06:41:12.921 | INFO     | main.process_file:19 - Formatted link: https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2058-06.pdf
+2025-07-07 06:41:12.922 | SUCCESS  | main.main:37 - Written formatted links to output file: 3 items.
+2025-07-07 06:41:12.992 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-07 06:41:13.982 | INFO     | main.process_file:19 - Formatted link: crystal (YouTube, Никита Черников, 06.07.2025), https://youtube.com/shorts/CoB1qcRki5k?feature=share
+2025-07-07 06:41:16.377 | INFO     | main.process_file:19 - Formatted link: S. A. McBride, S. Dash and K. K. Varanasi. Evaporative Crystallization in Drops on Superhydrophobic and Liquid-Impregnated Surfaces. Langmuir 41, 34, 12350-12358 (2018)
+2025-07-07 06:42:38.765 | INFO     | main.<module>:41 - Starting the application...
+2025-07-07 06:42:38.766 | INFO     | main.main:28 - Output file created and written successfully.
+2025-07-07 06:42:38.768 | INFO     | main.process_file:9 - Read 3 lines from input file.
+2025-07-07 06:42:38.769 | INFO     | main.process_file:19 - Formatted link: https://www.ioc.ee/~kalda/ipho/PhysicsCup2018/PC18_4-v1.pdf
+2025-07-07 06:42:38.770 | INFO     | main.process_file:19 - Formatted link: https://www.sibran.ru/upload/iblock/5b0/5b00de7ef543dddb6d3b5e58a1241bb0.pdf
+2025-07-07 06:42:38.771 | INFO     | main.process_file:19 - Formatted link: https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2058-06.pdf
+2025-07-07 06:42:38.773 | SUCCESS  | main.main:37 - Written formatted links to output file: 3 items.
+2025-07-07 06:42:38.774 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-07 06:42:39.312 | INFO     | main.process_file:19 - Formatted link: Autumn coin (YouTube, Никита Черников, 06.07.2025), https://youtu.be/EW6tA00SZL8
+2025-07-07 06:42:39.745 | INFO     | main.process_file:19 - Formatted link: Autumn coin - top (YouTube, Никита Черников, 06.07.2025), https://youtube.com/shorts/ItA7Z667tYc?feature=share
+2025-07-07 06:42:40.251 | INFO     | main.process_file:19 - Formatted link: Coins Dropped Into Crystal Clear Water: A View From The Bottom As The Coins Sink. Ogemaw Springs, MI (YouTube, Chosen Won, 01.02.2021), https://www.youtube.com/watch?v=jx0acGK7NC8
+2025-07-07 06:42:42.403 | INFO     | main.process_file:19 - Formatted link: L. Heisinger, P. Newton and E. Kanso. Coins falling in water. J. Fluid Mech. ERROR Issue, 742, 243-253 (2014)
+2025-07-07 06:43:26.469 | INFO     | main.process_file:19 - Formatted link: title: Is a falling leaf an example of a chaotic system?, author: Deschele Schilder, date: May 7, 2016	link: https://physics.stackexchange.com/questions/254545/is-a-falling-leaf-an-example-of-a-chaotic-system
+2025-07-07 06:43:26.471 | INFO     | main.process_file:19 - Formatted link: https://www.researchgate.net/profile/Yulia-Emelianova/publication/269253006_A_study_of_dynamics_of_a_falling_leaf_based_on_a_two-dimensional_model/links/548561b20cf24356db60ecc3/A-study-of-dynamics-of-a-falling-leaf-based-on-a-two-dimensional-model.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
+2025-07-07 06:43:56.270 | INFO     | main.process_file:19 - Formatted link: title: The Physics of Falling Leaves, author: Samara Schreier, date: Saturday, October 19, 2019	link: https://colgatephys111.blogspot.com/2019/10/v-behaviorurldefaultvmlo.html
+2025-07-07 06:44:25.099 | INFO     | main.process_file:19 - Formatted link: title: Flow around a disk (or an infinite cylinder), author: Luc Jaouen, date: -	link: https://apmr.matelys.com/BasicsMechanics/Fluid/FlowAroundADisk.html
+2025-07-07 06:44:27.175 | INFO     | main.process_file:19 - Formatted link: D. Vella, D.-G. Lee and H.-Y. Kim. Sinking of a Horizontal Cylinder. Langmuir 7, 22, 2972-2974 (2006)
+2025-07-07 06:44:27.237 | INFO     | main.process_file:19 - Formatted link: https://www.math.hkust.edu.hk/~machas/flow-around-a-cylinder.pdf
+2025-07-07 06:44:29.101 | ERROR    | formatters.insert_values:149 - Error fetching citation data: Failed to fetch data from https://doi.org/10.1021/acs.jpcb.3c05212?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as, status code: 400
+2025-07-07 06:44:29.102 | INFO     | main.process_file:19 - Formatted link: ERROR fetching citation data
+2025-07-07 06:44:29.103 | SUCCESS  | main.main:37 - Written formatted links to output file: 11 items.
+2025-07-07 06:44:29.104 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-07 06:44:29.573 | INFO     | main.process_file:19 - Formatted link: crystal (YouTube, Никита Черников, 06.07.2025), https://youtube.com/shorts/CoB1qcRki5k?feature=share
+2025-07-07 06:44:31.992 | INFO     | main.process_file:19 - Formatted link: S. A. McBride, S. Dash and K. K. Varanasi. Evaporative Crystallization in Drops on Superhydrophobic and Liquid-Impregnated Surfaces. Langmuir 41, 34, 12350-12358 (2018)
+2025-07-07 06:45:10.478 | INFO     | main.process_file:19 - Formatted link: title: How are crystals formed when water evaporates?, author: Anonymous, date: -	link: https://www.answers.com/chemistry/How_are_crystals_formed_when_water_evaporates
+2025-07-07 06:45:10.578 | INFO     | main.process_file:19 - Formatted link: https://www.docenti.unina.it/webdocenti-be/allegati/materiale-didattico/34126856
+2025-07-07 06:45:10.583 | INFO     | main.process_file:19 - Formatted link: https://www.geokniga.org/bookfiles/geokniga-crystalsandcrystalstructuresbyrichardjdtilleyz-liborg.pdf
+2025-07-07 06:45:12.770 | INFO     | main.process_file:19 - Formatted link: S. Ono. Two-dimensional ionic crystals: The cases of IA-VII alkali halides and IA-IB CsAu. arXiv ERROR Issue, ERROR Volume, ERROR Page (None)
+2025-07-07 06:45:38.024 | INFO     | main.process_file:19 - Formatted link: title: 14 Types of Salt, When and How to Use Each, and Substitutions, author: Jim Wright, date: April 27, 2024	link: https://www.foodfirefriends.com/types-of-salt/
+2025-07-07 06:45:40.668 | INFO     | main.process_file:19 - Formatted link: F. Kanngießer and M. Kahnert. Modeling Optical Properties of Non‐Cubical Sea‐Salt Particles. JGR Atmospheres 4, 126, ERROR Page (2021)
+2025-07-07 06:46:23.846 | ERROR    | formatters.get_site_info:78 - Something went wrong
+2025-07-07 06:46:40.076 | ERROR    | formatters.get_site_info:82 - Loading site error
+2025-07-07 06:46:40.077 | ERROR    | formatters.insert_values:194 - Can't parse site, skipping
+2025-07-07 06:46:40.078 | INFO     | main.process_file:19 - Formatted link: ERROR	link: https://opg.optica.org/abstract.cfm?uri=OAM-1990-FD6
+2025-07-07 06:47:38.817 | INFO     | main.process_file:19 - Formatted link: title: Crystal lattice- Definition, Types, examples, lattice point, author: Adeel Abbas, date: April 16, 2023	link: https://eduinput.com/crystal-lattice/
+2025-07-07 06:47:38.819 | SUCCESS  | main.main:37 - Written formatted links to output file: 10 items.
+2025-07-07 06:47:38.883 | INFO     | main.process_file:9 - Read 17 lines from input file.
+2025-07-07 06:47:39.933 | INFO     | main.process_file:19 - Formatted link: The Bizarre Behavior of Rotating Bodies (YouTube, Veritasium, 19.09.2019), https://youtu.be/1VPfZ_XzisU
+2025-07-07 06:47:41.150 | INFO     | main.process_file:19 - Formatted link: Эффект Джанибекова [Veritasium] (YouTube, Vert Dider, 25.09.2019), https://youtu.be/N9HlQ-XVnFk
+2025-07-07 06:47:41.706 | INFO     | main.process_file:19 - Formatted link: Эффект  Джанибекова (YouTube, Victor Ivchenko, 07.09.2011), https://www.youtube.com/shorts/-kybA1Nt6HM?feature=share
+2025-07-07 06:47:42.198 | INFO     | main.process_file:19 - Formatted link: Эффект Джанибекова (YouTube, GetAClass - Физика в опытах и экспериментах, 19.12.2023), https://youtu.be/iDTi7YrHxZA
+2025-07-07 06:47:42.688 | INFO     | main.process_file:19 - Formatted link: Демонстрация эффекта Джанибекова  в домашних условиях (YouTube, Alexei Kopylov, 01.06.2011), https://youtu.be/3VwS5ykAUHI
+2025-07-07 06:47:43.236 | INFO     | main.process_file:19 - Formatted link: 👽 Slow Motion Эффект Джанибекова  #slowmo  #Shorts Игорь Белецкий (YouTube, Игорь Белецкий (investigator), 23.10.2024), https://www.youtube.com/shorts/RnCBB1VqZFA?feature=share
+2025-07-07 06:47:43.802 | INFO     | main.process_file:19 - Formatted link: НЕПРЕДСКАЗУЕМЫЙ кувырок книги вокруг оси или эффект Джанибекова (YouTube, I V A N, 13.06.2019), https://youtu.be/4j8f4rFIgk4
+2025-07-07 06:47:44.542 | INFO     | main.process_file:19 - Formatted link: "Эффект Джанибекова". Модель в MSC.ADAMS. (YouTube, MechanicsSSAU, 10.05.2011), https://youtu.be/LR5hkgfRPno
+2025-07-07 06:47:45.292 | INFO     | main.process_file:19 - Formatted link: Эффект Джанибекова (YouTube, Вячеслав Мезенцев, 07.09.2011), https://youtu.be/VHNvzXy-Iqs
+2025-07-07 06:47:45.974 | INFO     | main.process_file:19 - Formatted link: Dzhanibekov effect (эффект Джанибекова ) (YouTube, Arkadiusz Jadczyk, 25.10.2016), https://youtu.be/ye-ONo-RixA
+2025-07-07 06:47:46.755 | INFO     | main.process_file:19 - Formatted link: Теорема промежуточной оси («эффект» Джанибекова) (YouTube, Андрей Кушнаренко, 12.04.2018), https://youtu.be/W3tcBakUeH4
+2025-07-07 06:47:48.853 | INFO     | main.process_file:19 - Formatted link: A. A. Deriglazov. An asymmetrical body: Example of analytical solution for the rotation matrix in elementary functions and Dzhanibekov effect. Communications in Nonlinear Science and Numerical Simulation ERROR Issue, 138, 108257 (2024)
+2025-07-07 06:47:50.866 | INFO     | main.process_file:19 - Formatted link: J. de la Torre and P. Español. Internal dissipation in the Dzhanibekov effect. European Journal of Mechanics - A/Solids ERROR Issue, 106, 105298 (2024)
+2025-07-07 06:47:53.330 | INFO     | main.process_file:19 - Formatted link: C. Peterson and W. Schwalm. Euler's rigid rotators, Jacobi elliptic functions, and the Dzhanibekov or tennis racket effect. American Journal of Physics 4, 89, 349-357 (2021)
+2025-07-07 06:48:42.831 | INFO     | main.process_file:19 - Formatted link: title: The Tennis Racket Theorem, an Analysis and Numerical Simulation of the Intermediate Axis Theorem, author: Nicolás Trivisonno, Luciano Garelli, Mario Storti, date: -	link: http://venus.ceride.gov.ar/ojs/index.php/mc/article/view/6244
+2025-07-07 06:48:42.833 | INFO     | main.process_file:19 - Formatted link: Wikipedia: Tennis racket theorem, https://en.wikipedia.org/wiki/Tennis_racket_theorem
+2025-07-07 06:48:42.834 | INFO     | main.process_file:19 - Formatted link: https://no-pani.ru/chlenstvo/rodionov_raboty/44.PDF
+2025-07-07 06:48:42.835 | SUCCESS  | main.main:37 - Written formatted links to output file: 17 items.
+2025-07-07 06:48:42.863 | INFO     | main.process_file:9 - Read 7 lines from input file.
+2025-07-07 06:48:43.394 | INFO     | main.process_file:19 - Formatted link: 20.6b Ex1: ON11 P41 Q3 Oscillating Magnet Damping | A2 Induction | CAIE A Level Physics (YouTube, ETphysics, 02.02.2021), https://m.youtube.com/watch?v=ElEMzE06r8Y
+2025-07-07 06:48:45.366 | INFO     | main.process_file:19 - Formatted link: M.-H. KWON and H.-M. CHOI*. Study on the Underdamped Oscillation of a Mass-spring System Subject to Electromagnetic Induction. New Physics: Sae Mulli 2, 62, 128-134 (2012)
+2025-07-07 06:48:47.188 | INFO     | main.process_file:19 - Formatted link: B. Cadiou, C. Stephan, A. Renoult et al. Damping adjustment of a nonlinear vibration absorber using an electro–magnetomechanical coupling. Journal of Sound and Vibration ERROR Issue, 518, 116508 (2022)
+2025-07-07 06:48:47.193 | INFO     | main.process_file:19 - Formatted link: Wikipedia: Magnetic damping, https://en.wikipedia.org/wiki/Magnetic_damping
+2025-07-07 06:48:47.195 | INFO     | main.process_file:19 - Formatted link: https://arxiv.org/pdf/physics/0111016
+2025-07-07 06:49:25.595 | INFO     | main.process_file:19 - Formatted link: title: How resistance in coils affects the damping of oscillations of a magnet through them, author: Oussama Safi, date: Aug 25, 2018	link: https://physics.stackexchange.com/questions/424726/how-resistance-in-coils-affects-the-damping-of-oscillations-of-a-magnet-through
+2025-07-07 06:49:25.599 | INFO     | main.process_file:19 - Formatted link: https://researchcommons.waikato.ac.nz/server/api/core/bitstreams/a89ae679-a936-46a1-a43a-f274c9ab4353/content
+2025-07-07 06:49:25.600 | SUCCESS  | main.main:37 - Written formatted links to output file: 7 items.
+2025-07-07 06:49:25.682 | INFO     | main.process_file:9 - Read 5 lines from input file.
+2025-07-07 06:49:26.408 | INFO     | main.process_file:19 - Formatted link: Slow-motion Footage of Objects Falling in Water (YouTube, Billy Zig, 02.12.2022), https://youtu.be/7KjBRGQGMFg
+2025-07-07 06:50:10.320 | INFO     | main.process_file:19 - Formatted link: title: Non-Round Rollers, author: -, date: -	link: https://www.exploratorium.edu/snacks/non-round-rollers#:~:text=Suppose%20you%20have%20a%20roller,will%20be%20constant
+2025-07-07 06:50:12.666 | INFO     | main.process_file:19 - Formatted link: D. Baraff. Coping with friction for non-penetrating rigid body simulation. SIGGRAPH Comput. Graph. 4, 25, 31-41 (1991)
+2025-07-07 06:50:14.201 | INFO     | main.process_file:19 - Formatted link: A. Rosen. Modified Lagrange Method to Analyze Problems of Sliding and Rolling. Journal of Applied Mechanics 4, 67, 697-704 (2000)
+2025-07-07 06:50:17.149 | INFO     | main.process_file:19 - Formatted link: D. Ma, C. Liu, Z. Zhao et al. Rolling friction and energy dissipation in a spinning disc. Proc. R. Soc. A. 2169, 470, 20140191 (2014)
+2025-07-07 06:50:17.150 | SUCCESS  | main.main:37 - Written formatted links to output file: 5 items.
+2025-07-07 06:50:17.224 | INFO     | main.process_file:9 - Read 24 lines from input file.
+2025-07-07 06:50:20.049 | INFO     | main.process_file:19 - Formatted link: J. B. Rodriguez, Q. Fan, Y. Yin et al. Laser control of graphite plate tilting on a magnet surface. Journal of Applied Physics 15, 135, ERROR Page (2024)
+2025-07-07 06:50:24.086 | INFO     | main.process_file:19 - Formatted link: M. Kobayashi and J. Abe. Optical Motion Control of Maglev Graphite. J. Am. Chem. Soc. 51, 134, 20593-20596 (2012)
+2025-07-07 06:51:08.576 | INFO     | main.process_file:19 - Formatted link: title: Optical Motion Control of Maglev Graphite, author: Masayuki Kobayashi, Jiro Abe, date: December 12, 2012	link: https://pubs.acs.org/doi/10.1021/ja310365k
+2025-07-07 06:51:40.797 | INFO     | main.process_file:19 - Formatted link: title: Magnetically levitating graphite can be moved with laser, author: admin_andrey, date: DECEMBER 27, 2012	link: https://phys.org/news/2012-12-magnetically-levitating-graphite-laser.html
+2025-07-07 06:52:20.473 | INFO     | main.process_file:19 - Formatted link: title: Laser Motion Control of Levitating Graphite, author: Magnetic Games, date: -	link: https://www.instructables.com/Laser-Motion-Control-of-Levitating-Graphite/
+2025-07-07 06:52:21.341 | INFO     | main.process_file:19 - Formatted link: Laser Motion Control of Levitating Graphite | Magnetic Games (YouTube, Magnetic Games, 25.01.2017), https://youtu.be/cJx5rAuXIXQ
+2025-07-07 06:52:21.930 | ERROR    | formatters.insert_values:136 - Error fetching video data
+2025-07-07 06:52:21.931 | INFO     | main.process_file:19 - Formatted link: ERROR fetching video data	 link: https://youtube.com/watch?app=desktop&v=TlD12QObooc
+2025-07-07 06:52:22.503 | INFO     | main.process_file:19 - Formatted link: Levitate a Piece of Graphite on Magnets - $10 Project (YouTube, Forrest Trenaman, 22.09.2012), https://youtube.com/watch?v=bUUua3nSJtE
+2025-07-07 06:52:22.504 | INFO     | main.process_file:19 - Formatted link: https://instructional-resources.physics.uiowa.edu/sites/instructional-resources.physics.uiowa.edu/files/field/demos/documents/5g30.55%20-%20Chapter%201_%20Magnetism.pdf
+2025-07-07 06:52:23.038 | INFO     | main.process_file:19 - Formatted link: K&J Magnetics - Pyrolytic Graphite (YouTube, K&J Magnetics, 31.08.2011), https://youtu.be/eU1gWBaKdDc
+2025-07-07 06:52:51.860 | INFO     | main.process_file:19 - Formatted link: title: Diamagnetism and Levitation, author: -, date: -	link: https://www.kjmagnetics.com/blog/diamagnetic-levitation
+2025-07-07 06:53:23.308 | INFO     | main.process_file:19 - Formatted link: title: Diamagnetic levitation of pyrolitic graphite over a single magnet achieved, author: Institution of Engineering and Technology, date: AUGUST 28, 2014	link: https://phys.org/news/2014-08-diamagnetic-levitation-pyrolitic-graphite-magnet.html
+2025-07-07 06:53:25.178 | INFO     | main.process_file:19 - Formatted link: J. B. Rodriguez, Q. Fan, Y. Yin et al. Laser control of graphite plate tilting on a magnet surface. Journal of Applied Physics 15, 135, ERROR Page (2024)
+2025-07-07 06:53:25.179 | INFO     | main.process_file:19 - Formatted link: https://www.dsta.gov.sg/staticfile/ydsp/projects/files/reports/Report%20-%20An%20Investigation%20on%20Diamagnetic%20Levitation%20of%20Graphite%20Sheets.pdf
+2025-07-07 06:53:25.180 | INFO     | main.process_file:19 - Formatted link: https://fenix.tecnico.ulisboa.pt/downloadFile/281870113702877/Extended%20Abstract.pdf
+2025-07-07 06:53:26.093 | INFO     | main.process_file:19 - Formatted link: Diamagnetic Levitation With Pyrolytic Graphite & Rare Earth Magnets (YouTube, ApexMagnets, 16.06.2016), https://youtu.be/l_1nozBje-8
+2025-07-07 06:53:26.528 | INFO     | main.process_file:19 - Formatted link: Magnetic levitation of pyrolytic graphite - EN (YouTube, The Weird Lab, 01.01.2021), https://youtu.be/s4U38YCHjm0
+2025-07-07 06:53:26.936 | INFO     | main.process_file:19 - Formatted link: Graphite levitation, magnets, laser and ultrasound (YouTube, William Fraser, 24.06.2024), https://youtu.be/gzS4DRmWPY4
+2025-07-07 06:55:41.151 | INFO     | formatters.get_site_info:72 - Operation aborted
+2025-07-07 06:55:41.152 | ERROR    | formatters.get_site_info:78 - Something went wrong
+2025-07-07 06:55:43.980 | ERROR    | formatters.get_site_info:82 - Loading site error
+2025-07-07 06:55:43.981 | ERROR    | formatters.insert_values:194 - Can't parse site, skipping
+2025-07-07 06:55:43.982 | INFO     | main.process_file:19 - Formatted link: ERROR	link: https://www.supermagnete.ro/Magnet-applications/Graphite-surfer
+2025-07-07 06:56:36.937 | ERROR    | formatters.get_site_info:78 - Something went wrong
+2025-07-07 06:56:53.201 | ERROR    | formatters.get_site_info:82 - Loading site error
+2025-07-07 06:56:53.202 | ERROR    | formatters.insert_values:194 - Can't parse site, skipping
+2025-07-07 06:56:53.203 | INFO     | main.process_file:19 - Formatted link: ERROR	link: https://melscience.com/US-en/articles/pyrolytic-graphite/
+2025-07-07 06:57:34.513 | INFO     | main.process_file:19 - Formatted link: title: Multi Magnetic Levitation, author: Magnetic Games, date: -	link: https://www.instructables.com/Multi-Magnetic-Levitation/
+2025-07-07 06:57:35.069 | INFO     | main.process_file:19 - Formatted link: Worlds first One Magnet Levitation with Pyrolytic Graphite (YouTube, AVA Magnetic Levitation, 11.05.2016), https://youtu.be/kb9vkL9Px4k
+2025-07-07 06:57:35.558 | INFO     | main.process_file:19 - Formatted link: Diamagnetic Levitation - Science Experiment (YouTube, CrazyRussianHacker, 28.01.2014), https://youtu.be/lNg98qMFu2s
+2025-07-07 06:58:01.178 | INFO     | main.process_file:19 - Formatted link: title: Diamagnetic Levitation, author: -, date: -	link: https://www.physics.ucla.edu/marty/diamag/
+2025-07-07 06:58:01.180 | SUCCESS  | main.main:37 - Written formatted links to output file: 24 items.
+2025-07-07 06:58:01.275 | INFO     | main.process_file:9 - Read 3 lines from input file.
+2025-07-07 06:58:01.692 | INFO     | main.process_file:19 - Formatted link: 3 Amazing Magnetic Accelerators | Magnetic Games (YouTube, Magnetic Games, 30.10.2021), https://youtu.be/iyv9GhaITNE?t=20
+2025-07-07 06:58:02.619 | INFO     | main.process_file:19 - Formatted link: Magnetic Accelerators | Magnetic Games (YouTube, Magnetic Games, 07.11.2020), https://youtu.be/fdoLXChlJ_4
+2025-07-07 06:58:03.296 | INFO     | main.process_file:19 - Formatted link: So powerful magnetic accelerator😱#magnetic #magnet #shorts #amazing #shortsfeed #shots (YouTube, Crazy Shorts, 03.12.2024), https://youtube.com/shorts/BgEzv3Z41yc?feature=share
+2025-07-07 06:58:03.298 | SUCCESS  | main.main:37 - Written formatted links to output file: 3 items.
+2025-07-07 06:58:03.323 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-07 06:58:03.967 | INFO     | main.process_file:19 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun shorts, 12.06.2021), https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+2025-07-07 06:58:04.400 | INFO     | main.process_file:19 - Formatted link: First ever magnetic newtons cradle (YouTube, Beau, 14.04.2019), https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+2025-07-07 06:58:04.828 | INFO     | main.process_file:19 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun, 20.05.2017), https://youtu.be/-T00RDWg-6I
+2025-07-07 06:58:05.304 | INFO     | main.process_file:19 - Formatted link: Newton Cradle vs Magnet Cradle Efficiency (YouTube, Active Kinetic 1, 21.09.2024), https://youtu.be/OZ8mcqEwvNA
+2025-07-07 06:58:05.752 | INFO     | main.process_file:19 - Formatted link: 🌑   Магнитный маятник Ньютона Станислава на 3D принтере Забавная физическая игрушка  Игорь Белецкий (YouTube, Igor Beletskiy, 24.12.2019), https://youtu.be/62HPBz0PBGw
+2025-07-07 06:58:30.589 | INFO     | formatters.get_site_info:72 - Operation aborted
+2025-07-07 06:58:30.591 | ERROR    | formatters.get_site_info:78 - Something went wrong
+2025-07-07 06:58:34.485 | ERROR    | formatters.get_site_info:82 - Loading site error
+2025-07-07 06:58:34.486 | ERROR    | formatters.insert_values:194 - Can't parse site, skipping
+2025-07-07 06:58:34.487 | INFO     | main.process_file:19 - Formatted link: ERROR	link: https://education.theiet.org/primary/teaching-resources/how-to-make-a-magnetic-newtons-cradle
+2025-07-07 06:59:09.955 | INFO     | main.process_file:19 - Formatted link: title: How to make a magnetic Newton's cradle, author: -, date: -	link: https://www.stem.org.uk/resources/elibrary/resource/446804/how-make-magnetic-newtons-cradle
+2025-07-07 06:59:10.611 | INFO     | main.process_file:19 - Formatted link: 8 Маятник Станислава ▶▶ Магнитные Шары Ньютона ▶▶ Неодимовые магниты и Колыбель Ньютона (YouTube, Магнит и Магнетизм, 14.03.2023), https://youtu.be/xS9fMuX3KTw
+2025-07-07 07:03:10.591 | INFO     | main.<module>:45 - Starting the application...
+2025-07-07 07:03:10.593 | INFO     | main.main:32 - Output file created and written successfully.
+2025-07-07 07:03:10.596 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-07 07:03:11.676 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun shorts, 12.06.2021), https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+2025-07-07 07:03:12.263 | INFO     | main.process_file:23 - Formatted link: First ever magnetic newtons cradle (YouTube, Beau, 14.04.2019), https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+2025-07-07 07:03:12.898 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun, 20.05.2017), https://youtu.be/-T00RDWg-6I
+2025-07-07 07:03:13.369 | INFO     | main.process_file:23 - Formatted link: Newton Cradle vs Magnet Cradle Efficiency (YouTube, Active Kinetic 1, 21.09.2024), https://youtu.be/OZ8mcqEwvNA
+2025-07-07 07:03:13.822 | INFO     | main.process_file:23 - Formatted link: 🌑   Магнитный маятник Ньютона Станислава на 3D принтере Забавная физическая игрушка  Игорь Белецкий (YouTube, Igor Beletskiy, 24.12.2019), https://youtu.be/62HPBz0PBGw
+2025-07-07 07:03:28.528 | INFO     | formatters.get_site_info:72 - Operation aborted
+2025-07-07 07:03:28.529 | ERROR    | formatters.get_site_info:78 - Something went wrong
+2025-07-07 07:03:32.600 | ERROR    | formatters.get_site_info:82 - Loading site error
+2025-07-07 07:03:32.601 | ERROR    | formatters.insert_values:194 - Can't parse site, skipping
+2025-07-07 07:03:32.602 | INFO     | main.process_file:23 - Formatted link: ERROR	link: https://education.theiet.org/primary/teaching-resources/how-to-make-a-magnetic-newtons-cradle
+2025-07-07 07:04:00.378 | INFO     | main.process_file:23 - Formatted link: title: How to make a magnetic Newton's cradle, author: -, date: -	link: https://www.stem.org.uk/resources/elibrary/resource/446804/how-make-magnetic-newtons-cradle
+2025-07-07 07:04:00.794 | INFO     | main.process_file:23 - Formatted link: 8 Маятник Станислава ▶▶ Магнитные Шары Ньютона ▶▶ Неодимовые магниты и Колыбель Ньютона (YouTube, Магнит и Магнетизм, 14.03.2023), https://youtu.be/xS9fMuX3KTw
+2025-07-07 07:04:00.797 | SUCCESS  | main.main:41 - Written formatted links to output file: 8 items.
+2025-07-07 07:04:00.894 | INFO     | main.process_file:9 - Read 7 lines from input file.
+2025-07-07 07:04:01.287 | INFO     | main.process_file:23 - Formatted link: Slow-motion Footage of Objects Falling in Water (YouTube, Billy Zig, 02.12.2022), https://youtu.be/7KjBRGQGMFg
+2025-07-07 07:04:01.734 | INFO     | main.process_file:23 - Formatted link: Oddly Satisfying: Object Falling into Water in Super Slow Motion (YouTube, LoopVibe, 13.06.2025), https://www.youtube.com/shorts/xix7Bkdj-g8?feature=share
+2025-07-07 07:04:34.155 | INFO     | main.process_file:23 - Formatted link: title: Why Dropping a Stone Makes a Jet, author: JR Minkel, date: January 23, 2009	link: https://physics.aps.org/story/v23/st3
+2025-07-07 07:04:36.257 | INFO     | main.process_file:23 - Formatted link: S. Gekle, J. M. Gordillo, D. van der Meer et al. High-Speed Jet Formation after Solid Object Impact. Phys. Rev. Lett. 3, 102, ERROR Page (2009)
+2025-07-07 07:04:37.733 | INFO     | main.process_file:23 - Formatted link: S. GEKLE and J. M. GORDILLO. Generation and breakup of Worthington jets after cavity collapse. Part 1. Jet formation. J. Fluid Mech. ERROR Issue, 663, 293-330 (2010)
+2025-07-07 07:05:16.120 | INFO     | main.process_file:23 - Formatted link: title: Worthington Jets during Water Entry of Spheres with no Cavity Formed, author: Xingsheng Li, Jing Li, date: 21 Dec 2024	link: https://arxiv.org/html/2412.16508v1
+2025-07-07 07:05:16.124 | SUCCESS  | main.main:41 - Written formatted links to output file: 6 items.
+2025-07-07 07:05:16.158 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-07 07:05:16.621 | INFO     | main.process_file:23 - Formatted link: Why Sugar Always Twists Light To The Right - Optical Rotation (YouTube, Steve Mould, 16.07.2020), https://www.youtube.com/watch?v=975r9a7FMqc&t=1s
+2025-07-07 07:05:17.168 | INFO     | main.process_file:23 - Formatted link: This tests your understanding of light | The barber pole effect (YouTube, 3Blue1Brown, 01.09.2023), https://www.youtube.com/watch?v=QCX62YJCmGk
+2025-07-07 07:05:17.598 | INFO     | main.process_file:23 - Formatted link: How Sugar Twists Light into a Rainbow (YouTube, STEM Initiative, 19.06.2022), https://www.youtube.com/watch?v=Q4terhrQsF8
+2025-07-07 07:05:18.029 | INFO     | main.process_file:23 - Formatted link: Optical rotation of sugars – chirality (YouTube, Royal Society Of Chemistry, 16.12.2011), https://www.youtube.com/watch?v=GchTURvBz68
+2025-07-07 07:05:18.037 | INFO     | main.process_file:23 - Formatted link: Wikipedia: Optical rotation, https://en.wikipedia.org/wiki/Optical_rotation
+2025-07-07 07:05:19.871 | INFO     | main.process_file:23 - Formatted link: R. N. Compton, S. M. Mahurin and R. N. Zare. Demonstration of Optical Rotatory Dispersion of Sucrose. J. Chem. Educ. 9, 76, 1234 (1999)
+2025-07-07 07:05:22.215 | INFO     | main.process_file:23 - Formatted link: A. Penzkofer. Optical Rotatory Dispersion Measurement of D-Glucose with Fixed Polarizer Analyzer Accessory in Conventional Spectrophotometer. JASMI 04, 03, 234-239 (2013)
+2025-07-07 07:05:23.815 | INFO     | main.process_file:23 - Formatted link: N. Hagen and T. Tadokoro. The rainbow beam experiment: direct visualization of dipole scattering and optical rotatory dispersion. Polarization Science and Remote Sensing IX ERROR Issue, ERROR Volume, 14 (2019)
+2025-07-07 07:05:26.145 | INFO     | main.process_file:23 - Formatted link: G. Ropars, A. Le Floch, J. Enoch et al. Direct naked-eye detection of chiral and Faraday effects in white light. EPL 6, 97, 64002 (2012)
+2025-07-07 07:05:27.814 | INFO     | main.process_file:23 - Formatted link: H. Taouk. Optical wave propagation in active media: gyrotropic–gyrochiral media. J. Opt. Soc. Am. A 8, 14, 2006 (1997)
+2025-07-07 07:05:29.915 | INFO     | main.process_file:23 - Formatted link: M. Nixon and I. G. Hughes. A visual understanding of optical rotation using corn syrup. Eur. J. Phys. 4, 38, 045302 (2017)
+2025-07-07 07:05:29.917 | SUCCESS  | main.main:41 - Written formatted links to output file: 11 items.
+2025-07-07 07:05:30.024 | INFO     | main.process_file:9 - Read 9 lines from input file.
+2025-07-07 07:05:30.046 | INFO     | main.process_file:23 - Formatted link: https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf
+2025-07-07 07:05:33.578 | INFO     | main.process_file:23 - Formatted link: A. Seguin and J. Crassous. Twist-Controlled Force Amplification and Spinning Tension Transition in Yarn. Phys. Rev. Lett. 7, 128, ERROR Page (2022)
+2025-07-07 07:06:12.833 | INFO     | main.process_file:23 - Formatted link: title: TORSIONAL RIGIDITY: DEFINITION, FORMULAS, AND APPLICATIONS, author: Austin Peng, date: 2 Jul 2025	link: https://www.dekmake.com/torsional-rigidity/
+2025-07-07 07:06:42.448 | INFO     | main.process_file:23 - Formatted link: title: Design Methods to Improve Torsional Rigidity, author: -, date: -	link: https://be-cu.com/blog/design-methods-to-improve-torsional-rigidity/
+2025-07-07 07:06:42.449 | INFO     | main.process_file:23 - Formatted link: https://msp.org/jomms/2006/1-8/jomms-v1-n8-p07-s.pdf
+2025-07-07 07:06:45.231 | INFO     | main.process_file:23 - Formatted link: I. Mertová, E. Moučková, B. Neckář et al. Influence of Twist on Selected Properties of Multifilament Yarn. Autex Research Journal 2, 18, 110-120 (2018)
+2025-07-07 07:06:45.233 | INFO     | main.process_file:23 - Formatted link: https://arxiv.org/pdf/1005.1108
+2025-07-07 07:06:46.837 | INFO     | main.process_file:23 - Formatted link: I. R. Bruss and G. M. Grason. Non-Euclidean geometry of twisted filament bundle packing. Proc. Natl. Acad. Sci. U.S.A. 27, 109, 10781-10786 (2012)
+2025-07-07 07:06:48.285 | INFO     | main.process_file:23 - Formatted link: G. M. Grason. Topological Defects in Twisted Bundles of Two-Dimensionally Ordered Filaments. Phys. Rev. Lett. 4, 105, ERROR Page (2010)
+2025-07-07 07:06:48.287 | SUCCESS  | main.main:41 - Written formatted links to output file: 9 items.
+2025-07-07 07:06:48.316 | INFO     | main.process_file:9 - Read 7 lines from input file.
+2025-07-07 07:06:48.975 | INFO     | main.process_file:23 - Formatted link: Вязкость газов. (YouTube, НИЯУ МИФИ, 01.03.2011), https://youtu.be/qG3-xKrr-QQ
+2025-07-07 07:06:49.455 | INFO     | main.process_file:23 - Formatted link: Галилео. Эксперимент. Вязкость воздуха (YouTube, GalileoRU, 27.01.2015), https://youtu.be/zgERsCsw9hY
+2025-07-07 07:06:51.189 | INFO     | main.process_file:23 - Formatted link: K. Nagaya, A. Suda, H. Yoshida et al. MR fluid viscous coupling and its torque delivery control. Tribology International 1, 40, 89-97 (2007)
+2025-07-07 07:06:51.191 | INFO     | main.process_file:23 - Formatted link: Wikipedia: Viscous coupling unit?utm source=chatgpt.com, https://en.wikipedia.org/wiki/Viscous_coupling_unit?utm_source=chatgpt.com
+2025-07-07 07:06:51.192 | INFO     | main.process_file:23 - Formatted link: https://www.lubrizol.com/-/media/Lubrizol/Lubricant-and-Fuel-Additives/Viscosity-Modifiers/Documents/High-VI-Fluid-Efficiency.pdf?la=en&hash=69CAE66448B25F55948BBEB47E32101D99BF3F00
+2025-07-07 07:06:52.956 | INFO     | main.process_file:23 - Formatted link: Q. Sun, F. Xie, K. Wan et al. Research on transmission efficiency of high power hydro-viscous clutch. ILT 7, 71, 942-948 (2019)
+2025-07-07 07:06:52.958 | SUCCESS  | main.main:41 - Written formatted links to output file: 6 items.
+2025-07-07 07:06:52.959 | INFO     | main.<module>:47 - Application finished.
+2025-07-09 08:17:52.158 | INFO     | main.<module>:45 - Starting the application...
+2025-07-09 08:17:52.159 | INFO     | main.main:32 - Output file created and written successfully.
+2025-07-09 08:17:52.168 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-09 08:17:52.525 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun shorts, 12.06.2021), https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+2025-07-09 08:17:52.893 | INFO     | main.process_file:23 - Formatted link: First ever magnetic newtons cradle (YouTube, Beau, 14.04.2019), https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+2025-07-09 08:17:53.259 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun, 20.05.2017), https://youtu.be/-T00RDWg-6I
+2025-07-09 08:17:53.600 | INFO     | main.process_file:23 - Formatted link: Newton Cradle vs Magnet Cradle Efficiency (YouTube, Active Kinetic 1, 21.09.2024), https://youtu.be/OZ8mcqEwvNA
+2025-07-09 08:17:53.914 | INFO     | main.process_file:23 - Formatted link: 🌑   Магнитный маятник Ньютона Станислава на 3D принтере Забавная физическая игрушка  Игорь Белецкий (YouTube, Igor Beletskiy, 24.12.2019), https://youtu.be/62HPBz0PBGw
+2025-07-09 08:17:53.916 | ERROR    | formatters.insert_values:248 - Can't parse site, skipping
+2025-07-09 08:17:53.916 | INFO     | main.process_file:23 - Formatted link: ERROR	link: https://education.theiet.org/primary/teaching-resources/how-to-make-a-magnetic-newtons-cradle
+2025-07-09 08:17:53.917 | ERROR    | formatters.insert_values:248 - Can't parse site, skipping
+2025-07-09 08:17:53.917 | INFO     | main.process_file:23 - Formatted link: ERROR	link: https://www.stem.org.uk/resources/elibrary/resource/446804/how-make-magnetic-newtons-cradle
+2025-07-09 08:17:54.258 | INFO     | main.process_file:23 - Formatted link: 8 Маятник Станислава ▶▶ Магнитные Шары Ньютона ▶▶ Неодимовые магниты и Колыбель Ньютона (YouTube, Магнит и Магнетизм, 14.03.2023), https://youtu.be/xS9fMuX3KTw
+2025-07-09 08:17:54.259 | SUCCESS  | main.main:41 - Written formatted links to output file: 8 items.
+2025-07-09 08:17:54.259 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-09 08:17:54.633 | INFO     | main.process_file:23 - Formatted link: Why Sugar Always Twists Light To The Right - Optical Rotation (YouTube, Steve Mould, 16.07.2020), https://www.youtube.com/watch?v=975r9a7FMqc&t=1s
+2025-07-09 08:17:54.995 | INFO     | main.process_file:23 - Formatted link: This tests your understanding of light | The barber pole effect (YouTube, 3Blue1Brown, 01.09.2023), https://www.youtube.com/watch?v=QCX62YJCmGk
+2025-07-09 08:17:55.338 | INFO     | main.process_file:23 - Formatted link: How Sugar Twists Light into a Rainbow (YouTube, STEM Initiative, 19.06.2022), https://www.youtube.com/watch?v=Q4terhrQsF8
+2025-07-09 08:17:55.694 | INFO     | main.process_file:23 - Formatted link: Optical rotation of sugars – chirality (YouTube, Royal Society Of Chemistry, 16.12.2011), https://www.youtube.com/watch?v=GchTURvBz68
+2025-07-09 08:17:55.696 | INFO     | main.process_file:23 - Formatted link: Wikipedia: Optical rotation, https://en.wikipedia.org/wiki/Optical_rotation
+2025-07-09 08:17:57.315 | INFO     | main.process_file:23 - Formatted link: R. N. Compton, S. M. Mahurin and R. N. Zare. Demonstration of Optical Rotatory Dispersion of Sucrose. J. Chem. Educ. 9, 76, 1234 (1999) https://doi.org/10.1021/ed076p1234
+2025-07-09 08:17:59.157 | INFO     | main.process_file:23 - Formatted link: A. Penzkofer. Optical Rotatory Dispersion Measurement of D-Glucose with Fixed Polarizer Analyzer Accessory in Conventional Spectrophotometer. JASMI 04, 03, 234-239 (2013) http://dx.doi.org/10.4236/jasmi.2013.34030
+2025-07-09 08:18:00.794 | WARNING  | formatters.llm_parse_citation_data:168 - LLM parsing citation data
+2025-07-09 08:23:34.163 | INFO     | main.<module>:45 - Starting the application...
+2025-07-09 08:23:34.164 | INFO     | main.main:32 - Output file created and written successfully.
+2025-07-09 08:23:34.164 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-09 08:23:34.599 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun shorts, 12.06.2021), https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+2025-07-09 08:23:34.967 | INFO     | main.process_file:23 - Formatted link: First ever magnetic newtons cradle (YouTube, Beau, 14.04.2019), https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+2025-07-09 08:23:35.332 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun, 20.05.2017), https://youtu.be/-T00RDWg-6I
+2025-07-09 08:23:35.672 | INFO     | main.process_file:23 - Formatted link: Newton Cradle vs Magnet Cradle Efficiency (YouTube, Active Kinetic 1, 21.09.2024), https://youtu.be/OZ8mcqEwvNA
+2025-07-09 08:23:36.001 | INFO     | main.process_file:23 - Formatted link: 🌑   Магнитный маятник Ньютона Станислава на 3D принтере Забавная физическая игрушка  Игорь Белецкий (YouTube, Igor Beletskiy, 24.12.2019), https://youtu.be/62HPBz0PBGw
+2025-07-09 08:23:36.003 | ERROR    | formatters.insert_values:254 - Can't parse site, skipping
+2025-07-09 08:23:36.004 | INFO     | main.process_file:23 - Formatted link: ERROR	link: https://education.theiet.org/primary/teaching-resources/how-to-make-a-magnetic-newtons-cradle
+2025-07-09 08:23:36.005 | ERROR    | formatters.insert_values:254 - Can't parse site, skipping
+2025-07-09 08:23:36.005 | INFO     | main.process_file:23 - Formatted link: ERROR	link: https://www.stem.org.uk/resources/elibrary/resource/446804/how-make-magnetic-newtons-cradle
+2025-07-09 08:23:36.325 | INFO     | main.process_file:23 - Formatted link: 8 Маятник Станислава ▶▶ Магнитные Шары Ньютона ▶▶ Неодимовые магниты и Колыбель Ньютона (YouTube, Магнит и Магнетизм, 14.03.2023), https://youtu.be/xS9fMuX3KTw
+2025-07-09 08:23:36.326 | SUCCESS  | main.main:41 - Written formatted links to output file: 8 items.
+2025-07-09 08:23:36.327 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-09 08:23:36.684 | INFO     | main.process_file:23 - Formatted link: Why Sugar Always Twists Light To The Right - Optical Rotation (YouTube, Steve Mould, 16.07.2020), https://www.youtube.com/watch?v=975r9a7FMqc&t=1s
+2025-07-09 08:23:37.010 | INFO     | main.process_file:23 - Formatted link: This tests your understanding of light | The barber pole effect (YouTube, 3Blue1Brown, 01.09.2023), https://www.youtube.com/watch?v=QCX62YJCmGk
+2025-07-09 08:23:37.368 | INFO     | main.process_file:23 - Formatted link: How Sugar Twists Light into a Rainbow (YouTube, STEM Initiative, 19.06.2022), https://www.youtube.com/watch?v=Q4terhrQsF8
+2025-07-09 08:23:37.727 | INFO     | main.process_file:23 - Formatted link: Optical rotation of sugars – chirality (YouTube, Royal Society Of Chemistry, 16.12.2011), https://www.youtube.com/watch?v=GchTURvBz68
+2025-07-09 08:23:37.728 | INFO     | main.process_file:23 - Formatted link: Wikipedia: Optical rotation, https://en.wikipedia.org/wiki/Optical_rotation
+2025-07-09 08:23:39.431 | INFO     | main.process_file:23 - Formatted link: R. N. Compton, S. M. Mahurin and R. N. Zare. Demonstration of Optical Rotatory Dispersion of Sucrose. J. Chem. Educ. 9, 76, 1234 (1999) https://doi.org/10.1021/ed076p1234
+2025-07-09 08:23:41.742 | INFO     | main.process_file:23 - Formatted link: A. Penzkofer. Optical Rotatory Dispersion Measurement of D-Glucose with Fixed Polarizer Analyzer Accessory in Conventional Spectrophotometer. JASMI 04, 03, 234-239 (2013) http://dx.doi.org/10.4236/jasmi.2013.34030
+2025-07-09 08:23:43.633 | WARNING  | formatters.llm_parse_citation_data:168 - LLM parsing citation data
+2025-07-09 08:23:49.978 | ERROR    | formatters.llm_parse_citation_data:207 - LLM parsing error: dictionary update sequence element #0 has length 3; 2 is required
+2025-07-09 08:23:49.982 | INFO     | main.process_file:23 - Formatted link: ERROR. ERROR. ERROR ERROR, ERROR, ERROR (ERROR) https://doi.org/10.1117/12.2526479
+2025-07-09 08:23:51.519 | INFO     | main.process_file:23 - Formatted link: G. Ropars, A. Le Floch, J. Enoch et al. Direct naked-eye detection of chiral and Faraday effects in white light. EPL 6, 97, 64002 (2012) https://doi.org/10.1209/0295-5075/97/64002
+2025-07-09 08:23:52.938 | INFO     | main.process_file:23 - Formatted link: H. Taouk. Optical wave propagation in active media: gyrotropic–gyrochiral media. J. Opt. Soc. Am. A 8, 14, 2006 (1997) https://doi.org/10.1364/JOSAA.14.002006
+2025-07-09 08:23:54.590 | INFO     | main.process_file:23 - Formatted link: M. Nixon and I. G. Hughes. A visual understanding of optical rotation using corn syrup. Eur. J. Phys. 4, 38, 045302 (2017) https://doi.org/10.1088/1361-6404/aa6a0b
+2025-07-09 08:23:54.592 | SUCCESS  | main.main:41 - Written formatted links to output file: 11 items.
+2025-07-09 08:23:54.593 | INFO     | main.process_file:9 - Read 9 lines from input file.
+2025-07-09 08:23:54.593 | INFO     | main.process_file:23 - Formatted link: https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf
+2025-07-09 08:23:56.024 | INFO     | main.process_file:23 - Formatted link: A. Seguin and J. Crassous. Twist-Controlled Force Amplification and Spinning Tension Transition in Yarn. Phys. Rev. Lett. 7, 128, ERROR Page (2022) https://doi.org/10.1103/PhysRevLett.128.078002
+2025-07-09 08:23:56.026 | ERROR    | formatters.insert_values:254 - Can't parse site, skipping
+2025-07-09 08:23:56.026 | INFO     | main.process_file:23 - Formatted link: ERROR	link: https://www.dekmake.com/torsional-rigidity/
+2025-07-09 08:23:56.027 | ERROR    | formatters.insert_values:254 - Can't parse site, skipping
+2025-07-09 08:23:56.027 | INFO     | main.process_file:23 - Formatted link: ERROR	link: https://be-cu.com/blog/design-methods-to-improve-torsional-rigidity/
+2025-07-09 08:23:56.028 | INFO     | main.process_file:23 - Formatted link: https://msp.org/jomms/2006/1-8/jomms-v1-n8-p07-s.pdf
+2025-07-09 08:23:57.664 | INFO     | main.process_file:23 - Formatted link: I. Mertová, E. Moučková, B. Neckář et al. Influence of Twist on Selected Properties of Multifilament Yarn. Autex Research Journal 2, 18, 110-120 (2018) https://doi.org/10.1515/aut-2017-0018
+2025-07-09 08:23:57.665 | INFO     | main.process_file:23 - Formatted link: https://arxiv.org/pdf/1005.1108
+2025-07-09 08:23:59.199 | INFO     | main.process_file:23 - Formatted link: I. R. Bruss and G. M. Grason. Non-Euclidean geometry of twisted filament bundle packing. Proc. Natl. Acad. Sci. U.S.A. 27, 109, 10781-10786 (2012) https://doi.org/10.1073/pnas.1205606109
+2025-07-09 08:25:47.990 | INFO     | main.<module>:45 - Starting the application...
+2025-07-09 08:25:47.990 | INFO     | main.main:32 - Output file created and written successfully.
+2025-07-09 08:25:47.991 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-09 08:25:48.359 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun shorts, 12.06.2021), https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+2025-07-09 08:25:48.733 | INFO     | main.process_file:23 - Formatted link: First ever magnetic newtons cradle (YouTube, Beau, 14.04.2019), https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+2025-07-09 08:25:49.055 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun, 20.05.2017), https://youtu.be/-T00RDWg-6I
+2025-07-09 08:25:49.393 | INFO     | main.process_file:23 - Formatted link: Newton Cradle vs Magnet Cradle Efficiency (YouTube, Active Kinetic 1, 21.09.2024), https://youtu.be/OZ8mcqEwvNA
+2025-07-09 08:25:49.816 | INFO     | main.process_file:23 - Formatted link: 🌑   Магнитный маятник Ньютона Станислава на 3D принтере Забавная физическая игрушка  Игорь Белецкий (YouTube, Igor Beletskiy, 24.12.2019), https://youtu.be/62HPBz0PBGw
+2025-07-09 08:25:49.818 | ERROR    | formatters.insert_values:256 - Can't parse site, skipping
+2025-07-09 08:25:49.818 | INFO     | main.process_file:23 - Formatted link: ERROR	link: https://education.theiet.org/primary/teaching-resources/how-to-make-a-magnetic-newtons-cradle
+2025-07-09 08:25:49.820 | ERROR    | formatters.insert_values:256 - Can't parse site, skipping
+2025-07-09 08:25:49.820 | INFO     | main.process_file:23 - Formatted link: ERROR	link: https://www.stem.org.uk/resources/elibrary/resource/446804/how-make-magnetic-newtons-cradle
+2025-07-09 08:25:50.139 | INFO     | main.process_file:23 - Formatted link: 8 Маятник Станислава ▶▶ Магнитные Шары Ньютона ▶▶ Неодимовые магниты и Колыбель Ньютона (YouTube, Магнит и Магнетизм, 14.03.2023), https://youtu.be/xS9fMuX3KTw
+2025-07-09 08:25:50.140 | SUCCESS  | main.main:41 - Written formatted links to output file: 8 items.
+2025-07-09 08:25:50.141 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-09 08:25:50.498 | INFO     | main.process_file:23 - Formatted link: Why Sugar Always Twists Light To The Right - Optical Rotation (YouTube, Steve Mould, 16.07.2020), https://www.youtube.com/watch?v=975r9a7FMqc&t=1s
+2025-07-09 08:25:50.825 | INFO     | main.process_file:23 - Formatted link: This tests your understanding of light | The barber pole effect (YouTube, 3Blue1Brown, 01.09.2023), https://www.youtube.com/watch?v=QCX62YJCmGk
+2025-07-09 08:25:51.181 | INFO     | main.process_file:23 - Formatted link: How Sugar Twists Light into a Rainbow (YouTube, STEM Initiative, 19.06.2022), https://www.youtube.com/watch?v=Q4terhrQsF8
+2025-07-09 08:25:51.513 | INFO     | main.process_file:23 - Formatted link: Optical rotation of sugars – chirality (YouTube, Royal Society Of Chemistry, 16.12.2011), https://www.youtube.com/watch?v=GchTURvBz68
+2025-07-09 08:25:51.514 | INFO     | main.process_file:23 - Formatted link: Wikipedia: Optical rotation, https://en.wikipedia.org/wiki/Optical_rotation
+2025-07-09 08:25:53.054 | INFO     | main.process_file:23 - Formatted link: R. N. Compton, S. M. Mahurin and R. N. Zare. Demonstration of Optical Rotatory Dispersion of Sucrose. J. Chem. Educ. 9, 76, 1234 (1999) https://doi.org/10.1021/ed076p1234
+2025-07-09 08:25:55.012 | INFO     | main.process_file:23 - Formatted link: A. Penzkofer. Optical Rotatory Dispersion Measurement of D-Glucose with Fixed Polarizer Analyzer Accessory in Conventional Spectrophotometer. JASMI 04, 03, 234-239 (2013) http://dx.doi.org/10.4236/jasmi.2013.34030
+2025-07-09 08:25:56.454 | WARNING  | formatters.llm_parse_citation_data:168 - LLM parsing citation data
+2025-07-09 08:29:04.481 | INFO     | main.<module>:45 - Starting the application...
+2025-07-09 08:29:04.482 | INFO     | main.main:32 - Output file created and written successfully.
+2025-07-09 08:29:04.483 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-09 08:29:04.920 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun shorts, 12.06.2021), https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+2025-07-09 08:29:05.288 | INFO     | main.process_file:23 - Formatted link: First ever magnetic newtons cradle (YouTube, Beau, 14.04.2019), https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+2025-07-09 08:29:05.642 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun, 20.05.2017), https://youtu.be/-T00RDWg-6I
+2025-07-09 08:29:05.968 | INFO     | main.process_file:23 - Formatted link: Newton Cradle vs Magnet Cradle Efficiency (YouTube, Active Kinetic 1, 21.09.2024), https://youtu.be/OZ8mcqEwvNA
+2025-07-09 08:29:06.325 | INFO     | main.process_file:23 - Formatted link: 🌑   Магнитный маятник Ньютона Станислава на 3D принтере Забавная физическая игрушка  Игорь Белецкий (YouTube, Igor Beletskiy, 24.12.2019), https://youtu.be/62HPBz0PBGw
+2025-07-09 08:29:06.327 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:29:06.328 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:29:06.694 | INFO     | main.process_file:23 - Formatted link: 8 Маятник Станислава ▶▶ Магнитные Шары Ньютона ▶▶ Неодимовые магниты и Колыбель Ньютона (YouTube, Магнит и Магнетизм, 14.03.2023), https://youtu.be/xS9fMuX3KTw
+2025-07-09 08:29:06.695 | SUCCESS  | main.main:41 - Written formatted links to output file: 8 items.
+2025-07-09 08:29:06.696 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-09 08:29:07.017 | INFO     | main.process_file:23 - Formatted link: Why Sugar Always Twists Light To The Right - Optical Rotation (YouTube, Steve Mould, 16.07.2020), https://www.youtube.com/watch?v=975r9a7FMqc&t=1s
+2025-07-09 08:29:07.371 | INFO     | main.process_file:23 - Formatted link: This tests your understanding of light | The barber pole effect (YouTube, 3Blue1Brown, 01.09.2023), https://www.youtube.com/watch?v=QCX62YJCmGk
+2025-07-09 08:29:07.728 | INFO     | main.process_file:23 - Formatted link: How Sugar Twists Light into a Rainbow (YouTube, STEM Initiative, 19.06.2022), https://www.youtube.com/watch?v=Q4terhrQsF8
+2025-07-09 08:29:08.097 | INFO     | main.process_file:23 - Formatted link: Optical rotation of sugars – chirality (YouTube, Royal Society Of Chemistry, 16.12.2011), https://www.youtube.com/watch?v=GchTURvBz68
+2025-07-09 08:29:08.098 | INFO     | main.process_file:23 - Formatted link: Wikipedia: Optical rotation, https://en.wikipedia.org/wiki/Optical_rotation
+2025-07-09 08:29:09.575 | INFO     | main.process_file:23 - Formatted link: R. N. Compton, S. M. Mahurin and R. N. Zare. Demonstration of Optical Rotatory Dispersion of Sucrose. J. Chem. Educ. 9, 76, 1234 (1999) https://doi.org/10.1021/ed076p1234
+2025-07-09 08:29:11.214 | INFO     | main.process_file:23 - Formatted link: A. Penzkofer. Optical Rotatory Dispersion Measurement of D-Glucose with Fixed Polarizer Analyzer Accessory in Conventional Spectrophotometer. JASMI 04, 03, 234-239 (2013) http://dx.doi.org/10.4236/jasmi.2013.34030
+2025-07-09 08:29:12.479 | WARNING  | formatters.llm_parse_citation_data:178 - LLM parsing citation data
+2025-07-09 08:29:23.563 | ERROR    | formatters.llm_parse_citation_data:221 - LLM parsing error: dictionary update sequence element #0 has length 3; 2 is required
+2025-07-09 08:29:23.566 | INFO     | main.process_file:23 - Formatted link: ERROR. ERROR. ERROR ERROR, ERROR, ERROR (ERROR) https://doi.org/10.1117/12.2526479
+2025-07-09 08:29:25.140 | INFO     | main.process_file:23 - Formatted link: G. Ropars, A. Le Floch, J. Enoch et al. Direct naked-eye detection of chiral and Faraday effects in white light. EPL 6, 97, 64002 (2012) https://doi.org/10.1209/0295-5075/97/64002
+2025-07-09 08:29:26.779 | INFO     | main.process_file:23 - Formatted link: H. Taouk. Optical wave propagation in active media: gyrotropic–gyrochiral media. J. Opt. Soc. Am. A 8, 14, 2006 (1997) https://doi.org/10.1364/JOSAA.14.002006
+2025-07-09 08:29:28.139 | INFO     | main.process_file:23 - Formatted link: M. Nixon and I. G. Hughes. A visual understanding of optical rotation using corn syrup. Eur. J. Phys. 4, 38, 045302 (2017) https://doi.org/10.1088/1361-6404/aa6a0b
+2025-07-09 08:29:28.142 | SUCCESS  | main.main:41 - Written formatted links to output file: 11 items.
+2025-07-09 08:29:28.142 | INFO     | main.process_file:9 - Read 9 lines from input file.
+2025-07-09 08:29:28.143 | INFO     | main.process_file:23 - Formatted link: https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf
+2025-07-09 08:29:29.539 | INFO     | main.process_file:23 - Formatted link: A. Seguin and J. Crassous. Twist-Controlled Force Amplification and Spinning Tension Transition in Yarn. Phys. Rev. Lett. 7, 128, ERROR Page (2022) https://doi.org/10.1103/PhysRevLett.128.078002
+2025-07-09 08:29:29.541 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:29:29.541 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:29:29.542 | INFO     | main.process_file:23 - Formatted link: https://msp.org/jomms/2006/1-8/jomms-v1-n8-p07-s.pdf
+2025-07-09 08:29:41.178 | INFO     | main.<module>:45 - Starting the application...
+2025-07-09 08:29:41.179 | INFO     | main.main:32 - Output file created and written successfully.
+2025-07-09 08:29:41.180 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-09 08:29:41.582 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun shorts, 12.06.2021), https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+2025-07-09 08:29:41.963 | INFO     | main.process_file:23 - Formatted link: First ever magnetic newtons cradle (YouTube, Beau, 14.04.2019), https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+2025-07-09 08:29:42.297 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun, 20.05.2017), https://youtu.be/-T00RDWg-6I
+2025-07-09 08:29:42.684 | INFO     | main.process_file:23 - Formatted link: Newton Cradle vs Magnet Cradle Efficiency (YouTube, Active Kinetic 1, 21.09.2024), https://youtu.be/OZ8mcqEwvNA
+2025-07-09 08:29:43.026 | INFO     | main.process_file:23 - Formatted link: 🌑   Магнитный маятник Ньютона Станислава на 3D принтере Забавная физическая игрушка  Игорь Белецкий (YouTube, Igor Beletskiy, 24.12.2019), https://youtu.be/62HPBz0PBGw
+2025-07-09 08:29:43.027 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:29:43.027 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:29:43.333 | INFO     | main.process_file:23 - Formatted link: 8 Маятник Станислава ▶▶ Магнитные Шары Ньютона ▶▶ Неодимовые магниты и Колыбель Ньютона (YouTube, Магнит и Магнетизм, 14.03.2023), https://youtu.be/xS9fMuX3KTw
+2025-07-09 08:29:43.335 | SUCCESS  | main.main:41 - Written formatted links to output file: 8 items.
+2025-07-09 08:29:43.335 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-09 08:29:43.674 | INFO     | main.process_file:23 - Formatted link: Why Sugar Always Twists Light To The Right - Optical Rotation (YouTube, Steve Mould, 16.07.2020), https://www.youtube.com/watch?v=975r9a7FMqc&t=1s
+2025-07-09 08:29:44.002 | INFO     | main.process_file:23 - Formatted link: This tests your understanding of light | The barber pole effect (YouTube, 3Blue1Brown, 01.09.2023), https://www.youtube.com/watch?v=QCX62YJCmGk
+2025-07-09 08:29:44.360 | INFO     | main.process_file:23 - Formatted link: How Sugar Twists Light into a Rainbow (YouTube, STEM Initiative, 19.06.2022), https://www.youtube.com/watch?v=Q4terhrQsF8
+2025-07-09 08:29:44.721 | INFO     | main.process_file:23 - Formatted link: Optical rotation of sugars – chirality (YouTube, Royal Society Of Chemistry, 16.12.2011), https://www.youtube.com/watch?v=GchTURvBz68
+2025-07-09 08:29:44.722 | INFO     | main.process_file:23 - Formatted link: Wikipedia: Optical rotation, https://en.wikipedia.org/wiki/Optical_rotation
+2025-07-09 08:29:45.947 | INFO     | main.process_file:23 - Formatted link: R. N. Compton, S. M. Mahurin and R. N. Zare. Demonstration of Optical Rotatory Dispersion of Sucrose. J. Chem. Educ. 9, 76, 1234 (1999) https://doi.org/10.1021/ed076p1234
+2025-07-09 08:29:47.475 | INFO     | main.process_file:23 - Formatted link: A. Penzkofer. Optical Rotatory Dispersion Measurement of D-Glucose with Fixed Polarizer Analyzer Accessory in Conventional Spectrophotometer. JASMI 04, 03, 234-239 (2013) http://dx.doi.org/10.4236/jasmi.2013.34030
+2025-07-09 08:29:48.794 | WARNING  | formatters.llm_parse_citation_data:178 - LLM parsing citation data
+2025-07-09 08:30:00.928 | ERROR    | formatters.llm_parse_citation_data:221 - LLM parsing error: dictionary update sequence element #2 has length 1; 2 is required
+2025-07-09 08:30:00.930 | INFO     | main.process_file:23 - Formatted link: ERROR. ERROR. ERROR ERROR, ERROR, ERROR (ERROR) https://doi.org/10.1117/12.2526479
+2025-07-09 08:30:02.209 | INFO     | main.process_file:23 - Formatted link: G. Ropars, A. Le Floch, J. Enoch et al. Direct naked-eye detection of chiral and Faraday effects in white light. EPL 6, 97, 64002 (2012) https://doi.org/10.1209/0295-5075/97/64002
+2025-07-09 08:30:03.540 | INFO     | main.process_file:23 - Formatted link: H. Taouk. Optical wave propagation in active media: gyrotropic–gyrochiral media. J. Opt. Soc. Am. A 8, 14, 2006 (1997) https://doi.org/10.1364/JOSAA.14.002006
+2025-07-09 08:30:04.803 | INFO     | main.process_file:23 - Formatted link: M. Nixon and I. G. Hughes. A visual understanding of optical rotation using corn syrup. Eur. J. Phys. 4, 38, 045302 (2017) https://doi.org/10.1088/1361-6404/aa6a0b
+2025-07-09 08:30:04.805 | SUCCESS  | main.main:41 - Written formatted links to output file: 11 items.
+2025-07-09 08:30:04.806 | INFO     | main.process_file:9 - Read 9 lines from input file.
+2025-07-09 08:30:04.806 | INFO     | main.process_file:23 - Formatted link: https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf
+2025-07-09 08:30:06.458 | INFO     | main.process_file:23 - Formatted link: A. Seguin and J. Crassous. Twist-Controlled Force Amplification and Spinning Tension Transition in Yarn. Phys. Rev. Lett. 7, 128, ERROR Page (2022) https://doi.org/10.1103/PhysRevLett.128.078002
+2025-07-09 08:30:06.460 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:30:06.460 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:30:06.461 | INFO     | main.process_file:23 - Formatted link: https://msp.org/jomms/2006/1-8/jomms-v1-n8-p07-s.pdf
+2025-07-09 08:30:09.551 | INFO     | main.process_file:23 - Formatted link: I. Mertová, E. Moučková, B. Neckář et al. Influence of Twist on Selected Properties of Multifilament Yarn. Autex Research Journal 2, 18, 110-120 (2018) https://doi.org/10.1515/aut-2017-0018
+2025-07-09 08:30:09.553 | INFO     | main.process_file:23 - Formatted link: https://arxiv.org/pdf/1005.1108
+2025-07-09 08:30:10.978 | INFO     | main.process_file:23 - Formatted link: I. R. Bruss and G. M. Grason. Non-Euclidean geometry of twisted filament bundle packing. Proc. Natl. Acad. Sci. U.S.A. 27, 109, 10781-10786 (2012) https://doi.org/10.1073/pnas.1205606109
+2025-07-09 08:30:12.211 | INFO     | main.process_file:23 - Formatted link: G. M. Grason. Topological Defects in Twisted Bundles of Two-Dimensionally Ordered Filaments. Phys. Rev. Lett. 4, 105, ERROR Page (2010) https://doi.org/10.1103/PhysRevLett.105.045502
+2025-07-09 08:30:12.212 | SUCCESS  | main.main:41 - Written formatted links to output file: 9 items.
+2025-07-09 08:30:12.213 | INFO     | main.process_file:9 - Read 7 lines from input file.
+2025-07-09 08:30:12.576 | INFO     | main.process_file:23 - Formatted link: Slow-motion Footage of Objects Falling in Water (YouTube, Billy Zig, 02.12.2022), https://youtu.be/7KjBRGQGMFg
+2025-07-09 08:30:12.933 | INFO     | main.process_file:23 - Formatted link: Oddly Satisfying: Object Falling into Water in Super Slow Motion (YouTube, LoopVibe, 13.06.2025), https://www.youtube.com/shorts/xix7Bkdj-g8?feature=share
+2025-07-09 08:30:12.935 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:31:36.434 | INFO     | main.<module>:45 - Starting the application...
+2025-07-09 08:31:36.435 | INFO     | main.main:32 - Output file created and written successfully.
+2025-07-09 08:31:36.436 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-09 08:31:36.780 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun shorts, 12.06.2021), https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+2025-07-09 08:31:37.108 | INFO     | main.process_file:23 - Formatted link: First ever magnetic newtons cradle (YouTube, Beau, 14.04.2019), https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+2025-07-09 08:31:37.480 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun, 20.05.2017), https://youtu.be/-T00RDWg-6I
+2025-07-09 08:31:37.796 | INFO     | main.process_file:23 - Formatted link: Newton Cradle vs Magnet Cradle Efficiency (YouTube, Active Kinetic 1, 21.09.2024), https://youtu.be/OZ8mcqEwvNA
+2025-07-09 08:31:38.102 | INFO     | main.process_file:23 - Formatted link: 🌑   Магнитный маятник Ньютона Станислава на 3D принтере Забавная физическая игрушка  Игорь Белецкий (YouTube, Igor Beletskiy, 24.12.2019), https://youtu.be/62HPBz0PBGw
+2025-07-09 08:31:38.104 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:31:38.104 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:31:38.413 | INFO     | main.process_file:23 - Formatted link: 8 Маятник Станислава ▶▶ Магнитные Шары Ньютона ▶▶ Неодимовые магниты и Колыбель Ньютона (YouTube, Магнит и Магнетизм, 14.03.2023), https://youtu.be/xS9fMuX3KTw
+2025-07-09 08:31:38.415 | SUCCESS  | main.main:41 - Written formatted links to output file: 8 items.
+2025-07-09 08:31:38.415 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-09 08:31:38.767 | INFO     | main.process_file:23 - Formatted link: Why Sugar Always Twists Light To The Right - Optical Rotation (YouTube, Steve Mould, 16.07.2020), https://www.youtube.com/watch?v=975r9a7FMqc&t=1s
+2025-07-09 08:31:39.135 | INFO     | main.process_file:23 - Formatted link: This tests your understanding of light | The barber pole effect (YouTube, 3Blue1Brown, 01.09.2023), https://www.youtube.com/watch?v=QCX62YJCmGk
+2025-07-09 08:31:39.449 | INFO     | main.process_file:23 - Formatted link: How Sugar Twists Light into a Rainbow (YouTube, STEM Initiative, 19.06.2022), https://www.youtube.com/watch?v=Q4terhrQsF8
+2025-07-09 08:31:39.810 | INFO     | main.process_file:23 - Formatted link: Optical rotation of sugars – chirality (YouTube, Royal Society Of Chemistry, 16.12.2011), https://www.youtube.com/watch?v=GchTURvBz68
+2025-07-09 08:31:39.812 | INFO     | main.process_file:23 - Formatted link: Wikipedia: Optical rotation, https://en.wikipedia.org/wiki/Optical_rotation
+2025-07-09 08:31:41.357 | INFO     | main.process_file:23 - Formatted link: R. N. Compton, S. M. Mahurin and R. N. Zare. Demonstration of Optical Rotatory Dispersion of Sucrose. J. Chem. Educ. 9, 76, 1234 (1999) https://doi.org/10.1021/ed076p1234
+2025-07-09 08:31:42.868 | INFO     | main.process_file:23 - Formatted link: A. Penzkofer. Optical Rotatory Dispersion Measurement of D-Glucose with Fixed Polarizer Analyzer Accessory in Conventional Spectrophotometer. JASMI 04, 03, 234-239 (2013) http://dx.doi.org/10.4236/jasmi.2013.34030
+2025-07-09 08:31:44.302 | WARNING  | formatters.llm_parse_citation_data:178 - LLM parsing citation data
+2025-07-09 08:31:54.675 | ERROR    | formatters.llm_parse_citation_data:221 - LLM parsing error: dictionary update sequence element #0 has length 1; 2 is required
+2025-07-09 08:31:54.678 | INFO     | main.process_file:23 - Formatted link: ERROR. ERROR. ERROR ERROR, ERROR, ERROR (ERROR) https://doi.org/10.1117/12.2526479
+2025-07-09 08:31:56.060 | INFO     | main.process_file:23 - Formatted link: G. Ropars, A. Le Floch, J. Enoch et al. Direct naked-eye detection of chiral and Faraday effects in white light. EPL 6, 97, 64002 (2012) https://doi.org/10.1209/0295-5075/97/64002
+2025-07-09 08:31:57.309 | INFO     | main.process_file:23 - Formatted link: H. Taouk. Optical wave propagation in active media: gyrotropic–gyrochiral media. J. Opt. Soc. Am. A 8, 14, 2006 (1997) https://doi.org/10.1364/JOSAA.14.002006
+2025-07-09 08:31:58.568 | INFO     | main.process_file:23 - Formatted link: M. Nixon and I. G. Hughes. A visual understanding of optical rotation using corn syrup. Eur. J. Phys. 4, 38, 045302 (2017) https://doi.org/10.1088/1361-6404/aa6a0b
+2025-07-09 08:31:58.571 | SUCCESS  | main.main:41 - Written formatted links to output file: 11 items.
+2025-07-09 08:31:58.572 | INFO     | main.process_file:9 - Read 9 lines from input file.
+2025-07-09 08:31:58.572 | INFO     | main.process_file:23 - Formatted link: https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf
+2025-07-09 08:33:17.145 | INFO     | main.<module>:45 - Starting the application...
+2025-07-09 08:33:17.146 | INFO     | main.main:32 - Output file created and written successfully.
+2025-07-09 08:33:17.147 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-09 08:33:17.557 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun shorts, 12.06.2021), https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+2025-07-09 08:33:17.920 | INFO     | main.process_file:23 - Formatted link: First ever magnetic newtons cradle (YouTube, Beau, 14.04.2019), https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+2025-07-09 08:33:18.278 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun, 20.05.2017), https://youtu.be/-T00RDWg-6I
+2025-07-09 08:33:18.604 | INFO     | main.process_file:23 - Formatted link: Newton Cradle vs Magnet Cradle Efficiency (YouTube, Active Kinetic 1, 21.09.2024), https://youtu.be/OZ8mcqEwvNA
+2025-07-09 08:33:18.956 | INFO     | main.process_file:23 - Formatted link: 🌑   Магнитный маятник Ньютона Станислава на 3D принтере Забавная физическая игрушка  Игорь Белецкий (YouTube, Igor Beletskiy, 24.12.2019), https://youtu.be/62HPBz0PBGw
+2025-07-09 08:33:18.958 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:33:18.958 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:33:19.354 | INFO     | main.process_file:23 - Formatted link: 8 Маятник Станислава ▶▶ Магнитные Шары Ньютона ▶▶ Неодимовые магниты и Колыбель Ньютона (YouTube, Магнит и Магнетизм, 14.03.2023), https://youtu.be/xS9fMuX3KTw
+2025-07-09 08:33:19.355 | SUCCESS  | main.main:41 - Written formatted links to output file: 8 items.
+2025-07-09 08:33:19.365 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-09 08:33:19.714 | INFO     | main.process_file:23 - Formatted link: Why Sugar Always Twists Light To The Right - Optical Rotation (YouTube, Steve Mould, 16.07.2020), https://www.youtube.com/watch?v=975r9a7FMqc&t=1s
+2025-07-09 08:33:20.055 | INFO     | main.process_file:23 - Formatted link: This tests your understanding of light | The barber pole effect (YouTube, 3Blue1Brown, 01.09.2023), https://www.youtube.com/watch?v=QCX62YJCmGk
+2025-07-09 08:33:20.422 | INFO     | main.process_file:23 - Formatted link: How Sugar Twists Light into a Rainbow (YouTube, STEM Initiative, 19.06.2022), https://www.youtube.com/watch?v=Q4terhrQsF8
+2025-07-09 08:33:20.798 | INFO     | main.process_file:23 - Formatted link: Optical rotation of sugars – chirality (YouTube, Royal Society Of Chemistry, 16.12.2011), https://www.youtube.com/watch?v=GchTURvBz68
+2025-07-09 08:33:20.799 | INFO     | main.process_file:23 - Formatted link: Wikipedia: Optical rotation, https://en.wikipedia.org/wiki/Optical_rotation
+2025-07-09 08:33:22.177 | INFO     | main.process_file:23 - Formatted link: R. N. Compton, S. M. Mahurin and R. N. Zare. Demonstration of Optical Rotatory Dispersion of Sucrose. J. Chem. Educ. 9, 76, 1234 (1999) https://doi.org/10.1021/ed076p1234
+2025-07-09 08:33:23.854 | INFO     | main.process_file:23 - Formatted link: A. Penzkofer. Optical Rotatory Dispersion Measurement of D-Glucose with Fixed Polarizer Analyzer Accessory in Conventional Spectrophotometer. JASMI 04, 03, 234-239 (2013) http://dx.doi.org/10.4236/jasmi.2013.34030
+2025-07-09 08:33:25.069 | WARNING  | formatters.llm_parse_citation_data:178 - LLM parsing citation data
+2025-07-09 08:34:16.241 | INFO     | main.<module>:45 - Starting the application...
+2025-07-09 08:34:16.242 | INFO     | main.main:32 - Output file created and written successfully.
+2025-07-09 08:34:16.252 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-09 08:34:16.674 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun shorts, 12.06.2021), https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+2025-07-09 08:34:17.039 | INFO     | main.process_file:23 - Formatted link: First ever magnetic newtons cradle (YouTube, Beau, 14.04.2019), https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+2025-07-09 08:34:17.343 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun, 20.05.2017), https://youtu.be/-T00RDWg-6I
+2025-07-09 08:34:17.685 | INFO     | main.process_file:23 - Formatted link: Newton Cradle vs Magnet Cradle Efficiency (YouTube, Active Kinetic 1, 21.09.2024), https://youtu.be/OZ8mcqEwvNA
+2025-07-09 08:34:18.036 | INFO     | main.process_file:23 - Formatted link: 🌑   Магнитный маятник Ньютона Станислава на 3D принтере Забавная физическая игрушка  Игорь Белецкий (YouTube, Igor Beletskiy, 24.12.2019), https://youtu.be/62HPBz0PBGw
+2025-07-09 08:34:18.037 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:34:18.038 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:34:18.396 | INFO     | main.process_file:23 - Formatted link: 8 Маятник Станислава ▶▶ Магнитные Шары Ньютона ▶▶ Неодимовые магниты и Колыбель Ньютона (YouTube, Магнит и Магнетизм, 14.03.2023), https://youtu.be/xS9fMuX3KTw
+2025-07-09 08:34:18.398 | SUCCESS  | main.main:41 - Written formatted links to output file: 8 items.
+2025-07-09 08:34:18.399 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-09 08:34:18.761 | INFO     | main.process_file:23 - Formatted link: Why Sugar Always Twists Light To The Right - Optical Rotation (YouTube, Steve Mould, 16.07.2020), https://www.youtube.com/watch?v=975r9a7FMqc&t=1s
+2025-07-09 08:34:19.128 | INFO     | main.process_file:23 - Formatted link: This tests your understanding of light | The barber pole effect (YouTube, 3Blue1Brown, 01.09.2023), https://www.youtube.com/watch?v=QCX62YJCmGk
+2025-07-09 08:34:19.438 | INFO     | main.process_file:23 - Formatted link: How Sugar Twists Light into a Rainbow (YouTube, STEM Initiative, 19.06.2022), https://www.youtube.com/watch?v=Q4terhrQsF8
+2025-07-09 08:34:19.795 | INFO     | main.process_file:23 - Formatted link: Optical rotation of sugars – chirality (YouTube, Royal Society Of Chemistry, 16.12.2011), https://www.youtube.com/watch?v=GchTURvBz68
+2025-07-09 08:34:19.796 | INFO     | main.process_file:23 - Formatted link: Wikipedia: Optical rotation, https://en.wikipedia.org/wiki/Optical_rotation
+2025-07-09 08:34:21.272 | INFO     | main.process_file:23 - Formatted link: R. N. Compton, S. M. Mahurin and R. N. Zare. Demonstration of Optical Rotatory Dispersion of Sucrose. J. Chem. Educ. 9, 76, 1234 (1999) https://doi.org/10.1021/ed076p1234
+2025-07-09 08:34:22.789 | INFO     | main.process_file:23 - Formatted link: A. Penzkofer. Optical Rotatory Dispersion Measurement of D-Glucose with Fixed Polarizer Analyzer Accessory in Conventional Spectrophotometer. JASMI 04, 03, 234-239 (2013) http://dx.doi.org/10.4236/jasmi.2013.34030
+2025-07-09 08:34:24.149 | WARNING  | formatters.llm_parse_citation_data:178 - LLM parsing citation data
+2025-07-09 08:34:57.169 | INFO     | main.process_file:23 - Formatted link: Nathan Hagen, Toshiyasu Tadokoro. The rainbow beam experiment: direct visualization of dipole scattering and optical rotatory dispersion. Polarization Science and Remote Sensing IX ERROR, ERROR, 14 (2019`.) https://doi.org/10.1117/12.2526479
+2025-07-09 08:34:58.753 | INFO     | main.process_file:23 - Formatted link: G. Ropars, A. Le Floch, J. Enoch et al. Direct naked-eye detection of chiral and Faraday effects in white light. EPL 6, 97, 64002 (2012) https://doi.org/10.1209/0295-5075/97/64002
+2025-07-09 08:34:59.970 | INFO     | main.process_file:23 - Formatted link: H. Taouk. Optical wave propagation in active media: gyrotropic–gyrochiral media. J. Opt. Soc. Am. A 8, 14, 2006 (1997) https://doi.org/10.1364/JOSAA.14.002006
+2025-07-09 08:35:01.527 | INFO     | main.process_file:23 - Formatted link: M. Nixon and I. G. Hughes. A visual understanding of optical rotation using corn syrup. Eur. J. Phys. 4, 38, 045302 (2017) https://doi.org/10.1088/1361-6404/aa6a0b
+2025-07-09 08:35:01.530 | SUCCESS  | main.main:41 - Written formatted links to output file: 11 items.
+2025-07-09 08:35:01.540 | INFO     | main.process_file:9 - Read 9 lines from input file.
+2025-07-09 08:35:01.541 | INFO     | main.process_file:23 - Formatted link: https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf
+2025-07-09 08:35:03.063 | INFO     | main.process_file:23 - Formatted link: A. Seguin and J. Crassous. Twist-Controlled Force Amplification and Spinning Tension Transition in Yarn. Phys. Rev. Lett. 7, 128, ERROR Page (2022) https://doi.org/10.1103/PhysRevLett.128.078002
+2025-07-09 08:35:03.064 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:35:03.065 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:35:03.065 | INFO     | main.process_file:23 - Formatted link: https://msp.org/jomms/2006/1-8/jomms-v1-n8-p07-s.pdf
+2025-07-09 08:35:04.601 | INFO     | main.process_file:23 - Formatted link: I. Mertová, E. Moučková, B. Neckář et al. Influence of Twist on Selected Properties of Multifilament Yarn. Autex Research Journal 2, 18, 110-120 (2018) https://doi.org/10.1515/aut-2017-0018
+2025-07-09 08:35:04.604 | INFO     | main.process_file:23 - Formatted link: https://arxiv.org/pdf/1005.1108
+2025-07-09 08:35:05.916 | INFO     | main.process_file:23 - Formatted link: I. R. Bruss and G. M. Grason. Non-Euclidean geometry of twisted filament bundle packing. Proc. Natl. Acad. Sci. U.S.A. 27, 109, 10781-10786 (2012) https://doi.org/10.1073/pnas.1205606109
+2025-07-09 08:35:07.400 | INFO     | main.process_file:23 - Formatted link: G. M. Grason. Topological Defects in Twisted Bundles of Two-Dimensionally Ordered Filaments. Phys. Rev. Lett. 4, 105, ERROR Page (2010) https://doi.org/10.1103/PhysRevLett.105.045502
+2025-07-09 08:35:07.402 | SUCCESS  | main.main:41 - Written formatted links to output file: 9 items.
+2025-07-09 08:35:07.412 | INFO     | main.process_file:9 - Read 7 lines from input file.
+2025-07-09 08:35:07.762 | INFO     | main.process_file:23 - Formatted link: Slow-motion Footage of Objects Falling in Water (YouTube, Billy Zig, 02.12.2022), https://youtu.be/7KjBRGQGMFg
+2025-07-09 08:35:08.129 | INFO     | main.process_file:23 - Formatted link: Oddly Satisfying: Object Falling into Water in Super Slow Motion (YouTube, LoopVibe, 13.06.2025), https://www.youtube.com/shorts/xix7Bkdj-g8?feature=share
+2025-07-09 08:35:08.131 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:35:09.624 | INFO     | main.process_file:23 - Formatted link: S. Gekle, J. M. Gordillo, D. van der Meer et al. High-Speed Jet Formation after Solid Object Impact. Phys. Rev. Lett. 3, 102, ERROR Page (2009) https://doi.org/10.1103/PhysRevLett.102.034502
+2025-07-09 08:35:10.938 | WARNING  | formatters.llm_parse_citation_data:178 - LLM parsing citation data
+2025-07-09 08:35:28.229 | INFO     | main.process_file:23 - Formatted link: STEPHAN GEKLE, J. M. GORDILLO. Generation and breakup of Worthington jets after cavity collapse. Part 1. Jet formation. J. Fluid Mech. ERROR, 663, 293-330 (2010) https://doi.org/10.1017/S0022112010003526
+2025-07-09 08:35:28.237 | INFO     | main.process_file:23 - Formatted link: None
+2025-07-09 08:35:28.243 | SUCCESS  | main.main:41 - Written formatted links to output file: 6 items.
+2025-07-09 08:35:28.262 | INFO     | main.process_file:9 - Read 7 lines from input file.
+2025-07-09 08:35:28.597 | INFO     | main.process_file:23 - Formatted link: Вязкость газов. (YouTube, НИЯУ МИФИ, 01.03.2011), https://youtu.be/qG3-xKrr-QQ
+2025-07-09 08:35:28.971 | INFO     | main.process_file:23 - Formatted link: Галилео. Эксперимент. Вязкость воздуха (YouTube, GalileoRU, 27.01.2015), https://youtu.be/zgERsCsw9hY
+2025-07-09 08:35:30.460 | INFO     | main.process_file:23 - Formatted link: K. Nagaya, A. Suda, H. Yoshida et al. MR fluid viscous coupling and its torque delivery control. Tribology International 1, 40, 89-97 (2007) https://doi.org/10.1016/j.triboint.2006.02.059
+2025-07-09 08:35:30.462 | INFO     | main.process_file:23 - Formatted link: Wikipedia: Viscous coupling unit?utm source=chatgpt.com, https://en.wikipedia.org/wiki/Viscous_coupling_unit?utm_source=chatgpt.com
+2025-07-09 08:35:30.463 | INFO     | main.process_file:23 - Formatted link: https://www.lubrizol.com/-/media/Lubrizol/Lubricant-and-Fuel-Additives/Viscosity-Modifiers/Documents/High-VI-Fluid-Efficiency.pdf?la=en&hash=69CAE66448B25F55948BBEB47E32101D99BF3F00
+2025-07-09 08:35:31.919 | INFO     | main.process_file:23 - Formatted link: Q. Sun, F. Xie, K. Wan et al. Research on transmission efficiency of high power hydro-viscous clutch. ILT 7, 71, 942-948 (2019) https://doi.org/10.1108/ILT-12-2018-0443
+2025-07-09 08:35:31.920 | SUCCESS  | main.main:41 - Written formatted links to output file: 6 items.
+2025-07-09 08:35:31.921 | INFO     | main.<module>:47 - Application finished.
+2025-07-10 11:36:49.490 | INFO     | main.<module>:45 - Starting the application...
+2025-07-10 11:36:49.491 | INFO     | main.main:32 - Output file created and written successfully.
+2025-07-10 11:36:49.492 | INFO     | main.process_file:9 - Read 10 lines from input file.
+2025-07-10 11:36:49.887 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun shorts, 12.06.2021), https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+2025-07-10 11:36:50.245 | INFO     | main.process_file:23 - Formatted link: First ever magnetic newtons cradle (YouTube, Beau, 14.04.2019), https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+2025-07-10 11:36:50.591 | INFO     | main.process_file:23 - Formatted link: Magnetic Newton's Cradle (YouTube, physicsfun, 20.05.2017), https://youtu.be/-T00RDWg-6I
+2025-07-10 11:36:50.978 | INFO     | main.process_file:23 - Formatted link: Newton Cradle vs Magnet Cradle Efficiency (YouTube, Active Kinetic 1, 21.09.2024), https://youtu.be/OZ8mcqEwvNA
+2025-07-10 11:36:51.336 | INFO     | main.process_file:23 - Formatted link: 🌑   Магнитный маятник Ньютона Станислава на 3D принтере Забавная физическая игрушка  Игорь Белецкий (YouTube, Igor Beletskiy, 24.12.2019), https://youtu.be/62HPBz0PBGw
+2025-07-10 11:37:14.949 | INFO     | main.process_file:23 - Formatted link: {'title': "How to make a magnetic Newton's cradle", 'author': '-', 'date': '-', 'link': 'https://education.theiet.org/primary/teaching-resources/how-to-make-a-magnetic-newtons-cradle'}
+2025-07-10 11:38:00.528 | INFO     | main.process_file:23 - Formatted link: {'title': "How to make a magnetic Newton's cradle", 'author': '-', 'date': '-', 'link': 'https://www.stem.org.uk/resources/elibrary/resource/446804/how-make-magnetic-newtons-cradle'}
+2025-07-10 11:38:00.953 | INFO     | main.process_file:23 - Formatted link: 8 Маятник Станислава ▶▶ Магнитные Шары Ньютона ▶▶ Неодимовые магниты и Колыбель Ньютона (YouTube, Магнит и Магнетизм, 14.03.2023), https://youtu.be/xS9fMuX3KTw
+2025-07-10 11:38:00.955 | SUCCESS  | main.main:41 - Written formatted links to output file: 8 items.
+2025-07-10 11:38:00.956 | INFO     | main.process_file:9 - Read 11 lines from input file.
+2025-07-10 11:38:01.281 | INFO     | main.process_file:23 - Formatted link: Why Sugar Always Twists Light To The Right - Optical Rotation (YouTube, Steve Mould, 16.07.2020), https://www.youtube.com/watch?v=975r9a7FMqc&t=1s
+2025-07-10 11:38:01.665 | INFO     | main.process_file:23 - Formatted link: This tests your understanding of light | The barber pole effect (YouTube, 3Blue1Brown, 01.09.2023), https://www.youtube.com/watch?v=QCX62YJCmGk
+2025-07-10 11:38:02.143 | INFO     | main.process_file:23 - Formatted link: How Sugar Twists Light into a Rainbow (YouTube, STEM Initiative, 19.06.2022), https://www.youtube.com/watch?v=Q4terhrQsF8
+2025-07-10 11:38:02.452 | INFO     | main.process_file:23 - Formatted link: Optical rotation of sugars – chirality (YouTube, Royal Society Of Chemistry, 16.12.2011), https://www.youtube.com/watch?v=GchTURvBz68
+2025-07-10 11:38:02.453 | INFO     | main.process_file:23 - Formatted link: Wikipedia: Optical rotation, https://en.wikipedia.org/wiki/Optical_rotation
+2025-07-10 11:38:03.998 | INFO     | main.process_file:23 - Formatted link: R. N. Compton, S. M. Mahurin and R. N. Zare. Demonstration of Optical Rotatory Dispersion of Sucrose. J. Chem. Educ. 9, 76, 1234 (1999) https://doi.org/10.1021/ed076p1234
+2025-07-10 11:38:05.945 | INFO     | main.process_file:23 - Formatted link: A. Penzkofer. Optical Rotatory Dispersion Measurement of D-Glucose with Fixed Polarizer Analyzer Accessory in Conventional Spectrophotometer. JASMI 04, 03, 234-239 (2013) http://dx.doi.org/10.4236/jasmi.2013.34030
+2025-07-10 11:38:08.302 | WARNING  | formatters.llm_parse_citation_data:194 - LLM parsing citation data
+2025-07-10 11:38:50.826 | ERROR    | formatters.llm_parse_citation_data:228 - LLM parsing error: dictionary update sequence element #0 has length 3; 2 is required
+2025-07-10 11:38:50.829 | INFO     | main.process_file:23 - Formatted link: ERROR. ERROR. ERROR ERROR, ERROR, ERROR (ERROR) https://doi.org/10.1117/12.2526479
+2025-07-10 11:42:12.954 | INFO     | main.<module>:45 - Starting the application...
+2025-07-10 11:42:12.954 | INFO     | main.process_file:9 - Read 1 lines from input file.
+2025-07-10 11:42:12.955 | INFO     | main.process_file:23 - Formatted link: https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf
+2025-07-10 11:42:12.955 | INFO     | main.<module>:48 - Application finished.
+2025-07-10 11:44:59.727 | INFO     | main.<module>:45 - Starting the application...
+2025-07-10 11:44:59.728 | INFO     | main.process_file:9 - Read 1 lines from input file.
+2025-07-10 11:45:37.910 | INFO     | main.<module>:45 - Starting the application...
+2025-07-10 11:45:37.910 | INFO     | main.process_file:9 - Read 1 lines from input file.
+2025-07-10 11:45:37.911 | INFO     | formatters.insert_values:285 - Downloading 'https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf'...
+2025-07-10 11:45:49.056 | ERROR    | formatters.insert_values:293 - Download error. Trying thruogh browser
+2025-07-10 11:45:54.007 | ERROR    | formatters.insert_values:312 - Something went wrong
+2025-07-10 11:45:54.031 | INFO     | main.process_file:23 - Formatted link: ERROR downloading	link: https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf
+2025-07-10 11:45:54.032 | INFO     | main.<module>:48 - Application finished.
+2025-07-10 11:46:37.097 | INFO     | main.<module>:45 - Starting the application...
+2025-07-10 11:46:37.098 | INFO     | main.process_file:9 - Read 1 lines from input file.
+2025-07-10 11:46:37.099 | INFO     | formatters.insert_values:286 - Downloading 'https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf'...
+2025-07-10 11:48:25.279 | INFO     | main.<module>:45 - Starting the application...
+2025-07-10 11:48:25.280 | INFO     | main.process_file:9 - Read 1 lines from input file.
+2025-07-10 11:48:25.281 | INFO     | formatters.insert_values:287 - Downloading 'https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf'...
+2025-07-10 11:48:56.482 | INFO     | main.<module>:45 - Starting the application...
+2025-07-10 11:48:56.482 | INFO     | main.process_file:9 - Read 1 lines from input file.
+2025-07-10 11:48:56.483 | INFO     | formatters.insert_values:288 - Downloading 'https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf'...
+2025-07-10 11:51:35.901 | INFO     | main.<module>:45 - Starting the application...
+2025-07-10 11:51:35.901 | INFO     | main.process_file:9 - Read 1 lines from input file.
+2025-07-10 11:51:35.902 | INFO     | formatters.insert_values:288 - Downloading 'https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf'...
+2025-07-10 11:54:59.035 | INFO     | main.<module>:45 - Starting the application...
+2025-07-10 11:54:59.035 | INFO     | main.process_file:9 - Read 1 lines from input file.
+2025-07-10 11:54:59.036 | INFO     | formatters.insert_values:288 - Downloading 'https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf'...
+2025-07-10 11:55:12.254 | INFO     | main.process_file:23 - Formatted link: : https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf
+2025-07-10 11:55:12.256 | INFO     | main.<module>:48 - Application finished.
+2025-07-10 11:56:33.958 | INFO     | main.<module>:45 - Starting the application...
+2025-07-10 11:56:33.959 | INFO     | main.process_file:9 - Read 1 lines from input file.
+2025-07-10 11:56:33.960 | INFO     | formatters.insert_values:288 - Downloading 'https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf'...
+2025-07-10 11:56:47.115 | INFO     | main.process_file:23 - Formatted link: P. K. Porwal, I. J. Beyerlein, S. L. Phoenix. Statistical strength of twisted fiber bundles with load sharing controlled by frictional length scales (April 2007), https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf
+2025-07-10 11:56:47.116 | INFO     | main.<module>:48 - Application finished.

@@ -1,0 +1,7 @@
+[video] https://youtu.be/qG3-xKrr-QQ
+[video] https://youtu.be/zgERsCsw9hY
+[paper] https://doi.org/10.1016/j.triboint.2006.02.059
+[wikipedia] https://en.wikipedia.org/wiki/Viscous_coupling_unit?utm_source=chatgpt.com
+[file] https://www.lubrizol.com/-/media/Lubrizol/Lubricant-and-Fuel-Additives/Viscosity-Modifiers/Documents/High-VI-Fluid-Efficiency.pdf?la=en&hash=69CAE66448B25F55948BBEB47E32101D99BF3F00
+[paper] https://doi.org/10.1108/ILT-12-2018-0443
+

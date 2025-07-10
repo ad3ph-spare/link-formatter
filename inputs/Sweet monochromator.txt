@@ -1,0 +1,11 @@
+[video] https://www.youtube.com/watch?v=975r9a7FMqc&t=1s
+[video] https://www.youtube.com/watch?v=QCX62YJCmGk
+[video] https://www.youtube.com/watch?v=Q4terhrQsF8
+[video] https://www.youtube.com/watch?v=GchTURvBz68
+[wikipedia] https://en.wikipedia.org/wiki/Optical_rotation
+[paper] https://doi.org/10.1021/ed076p1234
+[paper] http://dx.doi.org/10.4236/jasmi.2013.34030
+[paper] https://doi.org/10.1117/12.2526479
+[paper] https://doi.org/10.1209/0295-5075/97/64002
+[paper] https://doi.org/10.1364/JOSAA.14.002006
+[paper] https://doi.org/10.1088/1361-6404/aa6a0b

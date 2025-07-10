@@ -1,20 +1,11 @@
-R. Warren, J. Price, E. Graham et al. The projected effect on insects, vertebrates, and plants of limiting global warming to 1.5°C rather than 2°C. Science 6390, 360, 791-795 (2018)
-K. Peltonen, N. Ellonen, H. B. Larsen et al. Parental violence and adolescent mental health. Eur Child Adolesc Psychiatry 11, 19, 813-822 (2010)
-D. Brownlie. Towards effective poster presentations: an annotated bibliography. European Journal of Marketing 11/12, 41, 1245-1283 (2007)
-M. A. Hlatky, D. Boothroyd, E. Vittinghoff et al. Quality-of-Life and Depressive Symptoms in Postmenopausal Women After Receiving Hormone Therapy. JAMA 5, 287, 591 (2002)
-G. Shi, J.-p. Chavas and K. Stiegert. An Analysis of the Pricing of Traits in the U.S. Corn Seed Market. American J Agri Economics 5, 92, 1324-1338 (2010)
-K. Pelak, K. V. Shianna, D. Ge et al. The Characterization of Twenty Sequenced Human Genomes. PLoS Genet 9, 6, e1001111 (2010)
-A. Mallory-Kani. <i>“</i>Contagious Air[s]”: Wordsworth's Poetics and Politics of Immunity. European Romantic Review 6, 26, 699-717 (2015)
-ERROR fetching citation data
-E. S. Gorkunov, Y. V. Subachev, S. M. Zadvorkin et al. Effect of heat treatment on the magnetic behaviour of powder steel 50Ni2Mo under uni-axial tension. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science 6, 226, 1462-1471 (2012)
-S. Huh. Revision of the instructions to authors to require a structured abstract, digital object identifier of each reference, and author’s voice recording may increase journal access. J Educ Eval Health Prof ERROR Issue, 10, 3 (2013)
-P. Braconnot, S. P. Harrison, M. Kageyama et al. Evaluation of climate models using palaeoclimatic data. Nature Clim Change 6, 2, 417-424 (2012)
-ERROR fetching citation data
-B. Abbott, R. Abbott, T. Abbott et al. Observation of Gravitational Waves from a Binary Black Hole Merger. Phys. Rev. Lett. 6, 116, ERROR Page (2016)
-C. Benzmüller, X. Parent and L. van der Torre. Designing normative theories for ethical and legal reasoning: LogiKEy framework, methodology, and tool support. Artificial Intelligence ERROR Issue, 287, 103348 (2020)
-%%title%% (%%source%%, %%channel%%, %%date%%), %%link%%
-Wikipedia: Flight dynamics, https://en.wikipedia.org/wiki/Flight_dynamics
-J. Millman, C. H. Bishop and R. Ebel. An Analysis of Test-Wiseness. Educational and Psychological Measurement 3, 25, 707-726 (1965)
-%%title%% (%%author%%, %%site%%, %%date%%), %%link%%
-%%problem%% (IYPT %%year%%). %%reporter%% (%%team%%)
-%%authors%%. %%title%%. %%publisher%%, %%year%%
+
+
+--------------------./inputs/Magnetic Newton_s cradle--------------------
+1.Magnetic Newton's Cradle (YouTube, physicsfun shorts, 12.06.2021), https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+2.First ever magnetic newtons cradle (YouTube, Beau, 14.04.2019), https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+3.Magnetic Newton's Cradle (YouTube, physicsfun, 20.05.2017), https://youtu.be/-T00RDWg-6I
+4.Newton Cradle vs Magnet Cradle Efficiency (YouTube, Active Kinetic 1, 21.09.2024), https://youtu.be/OZ8mcqEwvNA
+5.🌑   Магнитный маятник Ньютона Станислава на 3D принтере Забавная физическая игрушка  Игорь Белецкий (YouTube, Igor Beletskiy, 24.12.2019), https://youtu.be/62HPBz0PBGw
+6.{'title': "How to make a magnetic Newton's cradle", 'author': '-', 'date': '-', 'link': 'https://education.theiet.org/primary/teaching-resources/how-to-make-a-magnetic-newtons-cradle'}
+7.{'title': "How to make a magnetic Newton's cradle", 'author': '-', 'date': '-', 'link': 'https://www.stem.org.uk/resources/elibrary/resource/446804/how-make-magnetic-newtons-cradle'}
+8.8 Маятник Станислава ▶▶ Магнитные Шары Ньютона ▶▶ Неодимовые магниты и Колыбель Ньютона (YouTube, Магнит и Магнетизм, 14.03.2023), https://youtu.be/xS9fMuX3KTw

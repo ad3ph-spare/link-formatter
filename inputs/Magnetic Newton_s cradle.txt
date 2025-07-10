@@ -1,0 +1,11 @@
+[file] https://msp.org/jomms/2007/2-4/jomms-v2-n4-p09-s.pdf
+[video] https://www.youtube.com/shorts/55iWsHvgFaM?feature=share
+[video] https://www.youtube.com/shorts/0Lv06seZFfE?feature=share
+[video] https://youtu.be/-T00RDWg-6I
+[video] https://youtu.be/OZ8mcqEwvNA
+[video] https://youtu.be/62HPBz0PBGw
+[site] https://education.theiet.org/primary/teaching-resources/how-to-make-a-magnetic-newtons-cradle
+[site] https://www.stem.org.uk/resources/elibrary/resource/446804/how-make-magnetic-newtons-cradle
+[video] https://youtu.be/xS9fMuX3KTw
+
+
